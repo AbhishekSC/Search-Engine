@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: search-backend
+
+    ports:
+      - "3009:3009"
+
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+
+  frontend:
+    build:
+      context: ./clientt
+    container_name: search-frontend
+
+    ports:
+      - "5173:5173"
+
+    depends_on:
+      - backend
+
+    environment:
+      VITE_API_URL: http://backend:3009
+
+    volumes:
+      - ./clientt:/app
+      - /app/node_modules

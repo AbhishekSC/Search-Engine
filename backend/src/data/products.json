@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "name": "Ultra Electric Kettle",
+    "description": "Kuhlman, Wuckert-Pacocha and Hirthe's most advanced Keyboard technology increases joyous capabilities",
+    "category": "Home",
+    "price": 4837,
+    "tags": [
+      "usb",
+      "premium",
+      "professional"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Smart Hoodie",
+    "description": "Electronic Hat designed with Silk for wee performance",
+    "category": "Fashion",
+    "price": 3622,
+    "tags": [
+      "bluetooth",
+      "computer",
+      "usb"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Professional Skipping Rope",
+    "description": "Our horse-friendly Salad ensures jaunty comfort for your pets",
+    "category": "Sports",
+    "price": 4562,
+    "tags": [
+      "computer",
+      "audio",
+      "wireless"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Advanced Water Bottle",
+    "description": "Our golden-inspired Computer brings a taste of luxury to your linear lifestyle",
+    "category": "Sports",
+    "price": 3332,
+    "tags": [
+      "office",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Modern Storage Box",
+    "description": "Our bird-friendly Bike ensures smoggy comfort for your pets",
+    "category": "Home",
+    "price": 4829,
+    "tags": [
+      "premium",
+      "computer",
+      "usb"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Smart Hoodie",
+    "description": "The sleek and mixed Fish comes with black LED lighting for smart functionality",
+    "category": "Fashion",
+    "price": 4196,
+    "tags": [
+      "gaming",
+      "professional",
+      "wireless"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Compact Jeans",
+    "description": "The sleek and functional Salad comes with olive LED lighting for smart functionality",
+    "category": "Fashion",
+    "price": 1491,
+    "tags": [
+      "professional",
+      "usb",
+      "office"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Gaming Cap",
+    "description": "The Optimized regional success Sausages offers reliable performance and true design",
+    "category": "Fashion",
+    "price": 4968,
+    "tags": [
+      "bluetooth",
+      "computer",
+      "premium"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Premium Design Patterns",
+    "description": "The sleek and needy Bacon comes with turquoise LED lighting for smart functionality",
+    "category": "Books",
+    "price": 4996,
+    "tags": [
+      "usb",
+      "portable",
+      "wireless"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Smart Cap",
+    "description": "Our crispy-inspired Chair brings a taste of luxury to your sturdy lifestyle",
+    "category": "Fashion",
+    "price": 4335,
+    "tags": [
+      "fitness",
+      "computer",
+      "usb"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Advanced Vacuum Cleaner",
+    "description": "Kessler, Hartmann and Grimes's most advanced Car technology increases windy capabilities",
+    "category": "Home",
+    "price": 3136,
+    "tags": [
+      "portable",
+      "premium",
+      "computer"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Smart Ceiling Fan",
+    "description": "Our butterfly-friendly Chair ensures miserly comfort for your pets",
+    "category": "Home",
+    "price": 2688,
+    "tags": [
+      "wireless",
+      "computer",
+      "office"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Advanced Storage Box",
+    "description": "Discover the bear-like agility of our Tuna, perfect for tepid users",
+    "category": "Home",
+    "price": 2822,
+    "tags": [
+      "gaming",
+      "audio",
+      "travel"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Professional Vacuum Cleaner",
+    "description": "Our horse-friendly Soap ensures ideal comfort for your pets",
+    "category": "Home",
+    "price": 1142,
+    "tags": [
+      "gaming",
+      "rgb",
+      "wireless"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Ultra Microphone",
+    "description": "The grey Gloves combines Eswatini aesthetics with Roentgenium-based durability",
+    "category": "Electronics",
+    "price": 1615,
+    "tags": [
+      "storage",
+      "wireless",
+      "professional"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Wireless Cap",
+    "description": "New Chair model with 28 GB RAM, 67 GB storage, and frank features",
+    "category": "Fashion",
+    "price": 2701,
+    "tags": [
+      "office",
+      "gaming",
+      "computer"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Professional Wallet",
+    "description": "Experience the teal brilliance of our Soap, perfect for dramatic environments",
+    "category": "Fashion",
+    "price": 3078,
+    "tags": [
+      "computer",
+      "smart",
+      "office"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Ultra Smart Watch",
+    "description": "Experience the ivory brilliance of our Bacon, perfect for unusual environments",
+    "category": "Electronics",
+    "price": 3947,
+    "tags": [
+      "audio",
+      "bluetooth",
+      "computer"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Advanced Cap",
+    "description": "Professional-grade Shirt perfect for snoopy training and recreational use",
+    "category": "Fashion",
+    "price": 1276,
+    "tags": [
+      "professional",
+      "office",
+      "gaming"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Advanced Cap",
+    "description": "Refined Mouse designed with Concrete for hopeful performance",
+    "category": "Fashion",
+    "price": 1989,
+    "tags": [
+      "travel",
+      "gaming",
+      "fitness"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Modern Storage Box",
+    "description": "Our rhinoceros-friendly Bike ensures angelic comfort for your pets",
+    "category": "Home",
+    "price": 1283,
+    "tags": [
+      "premium",
+      "travel",
+      "computer"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Premium Design Patterns",
+    "description": "Our peacock-friendly Table ensures harmful comfort for your pets",
+    "category": "Books",
+    "price": 1761,
+    "tags": [
+      "professional",
+      "fitness",
+      "rgb"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Smart Cap",
+    "description": "The turquoise Chair combines Iran aesthetics with Europium-based durability",
+    "category": "Fashion",
+    "price": 211,
+    "tags": [
+      "bluetooth",
+      "storage",
+      "professional"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Professional Mechanical Keyboard",
+    "description": "The green Chair combines Seychelles aesthetics with Iron-based durability",
+    "category": "Electronics",
+    "price": 831,
+    "tags": [
+      "office",
+      "gaming",
+      "storage"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Professional Wallet",
+    "description": "Innovative Table featuring juvenile technology and Steel construction",
+    "category": "Fashion",
+    "price": 4380,
+    "tags": [
+      "office",
+      "fitness",
+      "professional"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Modern Design Patterns",
+    "description": "Savor the golden essence in our Pants, designed for misguided culinary adventures",
+    "category": "Books",
+    "price": 542,
+    "tags": [
+      "gaming",
+      "usb",
+      "wireless"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Advanced Wireless Earbuds",
+    "description": "Our bitter-inspired Pants brings a taste of luxury to your sticky lifestyle",
+    "category": "Electronics",
+    "price": 3719,
+    "tags": [
+      "bluetooth",
+      "gaming",
+      "fitness"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Advanced USB-C Hub",
+    "description": "The Lavon Pants is the latest in a series of sleepy products from Bradtke, Weber and Parker",
+    "category": "Electronics",
+    "price": 904,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "gaming"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Premium System Design",
+    "description": "The Networked motivating protocol Chair offers reliable performance and devoted design",
+    "category": "Books",
+    "price": 3679,
+    "tags": [
+      "audio",
+      "bluetooth",
+      "gaming"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Premium Design Patterns",
+    "description": "Professional-grade Gloves perfect for blond training and recreational use",
+    "category": "Books",
+    "price": 4667,
+    "tags": [
+      "smart",
+      "gaming",
+      "fitness"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Gaming Basketball",
+    "description": "The sleek and avaricious Hat comes with azure LED lighting for smart functionality",
+    "category": "Sports",
+    "price": 3965,
+    "tags": [
+      "fitness",
+      "rgb",
+      "audio"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Wireless System Design",
+    "description": "Professional-grade Bike perfect for puzzled training and recreational use",
+    "category": "Books",
+    "price": 1184,
+    "tags": [
+      "professional",
+      "audio",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Smart Electric Kettle",
+    "description": "The Synchronised immersive strategy Gloves offers reliable performance and humble design",
+    "category": "Home",
+    "price": 2421,
+    "tags": [
+      "bluetooth",
+      "storage",
+      "travel"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Portable Sneakers",
+    "description": "Experience the yellow brilliance of our Sausages, perfect for artistic environments",
+    "category": "Fashion",
+    "price": 4126,
+    "tags": [
+      "computer",
+      "rgb",
+      "usb"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Modern Storage Box",
+    "description": "Featuring Technetium-enhanced technology, our Bike offers unparalleled nimble performance",
+    "category": "Home",
+    "price": 2177,
+    "tags": [
+      "storage",
+      "smart",
+      "portable"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Modern Wireless Mouse",
+    "description": "Gorgeous Cheese designed with Marble for tight performance",
+    "category": "Electronics",
+    "price": 1222,
+    "tags": [
+      "audio",
+      "office",
+      "gaming"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Professional Gym Gloves",
+    "description": "The ivory Towels combines New Caledonia aesthetics with Plutonium-based durability",
+    "category": "Sports",
+    "price": 3990,
+    "tags": [
+      "rgb",
+      "smart",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Modern Design Patterns",
+    "description": "Experience the ivory brilliance of our Salad, perfect for repentant environments",
+    "category": "Books",
+    "price": 4923,
+    "tags": [
+      "smart",
+      "travel",
+      "office"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Modern Skipping Rope",
+    "description": "The Ayana Tuna is the latest in a series of timely products from Ferry, Wiegand and Anderson",
+    "category": "Sports",
+    "price": 3817,
+    "tags": [
+      "usb",
+      "bluetooth",
+      "smart"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Wireless Sneakers",
+    "description": "The sleek and wonderful Mouse comes with turquoise LED lighting for smart functionality",
+    "category": "Fashion",
+    "price": 4640,
+    "tags": [
+      "rgb",
+      "bluetooth",
+      "office"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Compact Wallet",
+    "description": "Discover the dog-like agility of our Pizza, perfect for odd users",
+    "category": "Fashion",
+    "price": 3929,
+    "tags": [
+      "usb",
+      "professional",
+      "portable"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Compact Sneakers",
+    "description": "New Bacon model with 54 GB RAM, 657 GB storage, and baggy features",
+    "category": "Fashion",
+    "price": 4630,
+    "tags": [
+      "fitness",
+      "gaming",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Advanced JavaScript Guide",
+    "description": "Our hippopotamus-friendly Chicken ensures hospitable comfort for your pets",
+    "category": "Books",
+    "price": 936,
+    "tags": [
+      "travel",
+      "usb",
+      "audio"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Wireless System Design",
+    "description": "Introducing the Papua New Guinea-inspired Mouse, blending wavy style with local craftsmanship",
+    "category": "Books",
+    "price": 2238,
+    "tags": [
+      "rgb",
+      "usb",
+      "gaming"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Compact React Cookbook",
+    "description": "The Expanded cloud-native architecture Towels offers reliable performance and lucky design",
+    "category": "Books",
+    "price": 2857,
+    "tags": [
+      "audio",
+      "portable",
+      "office"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Gaming Power Bank",
+    "description": "Soft Shoes designed with Bronze for arid performance",
+    "category": "Electronics",
+    "price": 769,
+    "tags": [
+      "professional",
+      "usb",
+      "gaming"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Compact Wallet",
+    "description": "The Organic encompassing synergy Car offers reliable performance and separate design",
+    "category": "Fashion",
+    "price": 4957,
+    "tags": [
+      "professional",
+      "office",
+      "premium"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Professional Formal Shirt",
+    "description": "The Seth Table is the latest in a series of diligent products from Simonis, Breitenberg and D'Amore",
+    "category": "Fashion",
+    "price": 3768,
+    "tags": [
+      "travel",
+      "rgb",
+      "usb"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Compact Yoga Mat",
+    "description": "Medhurst-VonRueden and Sons's most advanced Ball technology increases digital capabilities",
+    "category": "Sports",
+    "price": 1003,
+    "tags": [
+      "bluetooth",
+      "portable",
+      "computer"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Modern React Cookbook",
+    "description": "Our rabbit-friendly Tuna ensures icy comfort for your pets",
+    "category": "Books",
+    "price": 1698,
+    "tags": [
+      "computer",
+      "smart",
+      "rgb"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Advanced Kubernetes Essentials",
+    "description": "Doyle - Johnston's most advanced Mouse technology increases spirited capabilities",
+    "category": "Books",
+    "price": 3962,
+    "tags": [
+      "rgb",
+      "travel",
+      "audio"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Smart Bluetooth Speaker",
+    "description": "The Giovanny Computer is the latest in a series of tame products from Gutkowski - Champlin",
+    "category": "Electronics",
+    "price": 4045,
+    "tags": [
+      "fitness",
+      "audio",
+      "travel"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Modern Router",
+    "description": "The Secured modular neural-net Cheese offers reliable performance and apt design",
+    "category": "Electronics",
+    "price": 1308,
+    "tags": [
+      "usb",
+      "gaming",
+      "smart"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Portable Smart Watch",
+    "description": "Discover the pricey new Pizza with an exciting mix of Wooden ingredients",
+    "category": "Electronics",
+    "price": 3024,
+    "tags": [
+      "fitness",
+      "gaming",
+      "usb"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Professional Mixer Grinder",
+    "description": "Sleek Shoes designed with Rubber for political performance",
+    "category": "Home",
+    "price": 1160,
+    "tags": [
+      "wireless",
+      "fitness",
+      "smart"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Gaming Wireless Earbuds",
+    "description": "Discover the excitable new Cheese with an exciting mix of Concrete ingredients",
+    "category": "Electronics",
+    "price": 2251,
+    "tags": [
+      "portable",
+      "storage",
+      "rgb"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Wireless Backpack",
+    "description": "Professional-grade Mouse perfect for ashamed training and recreational use",
+    "category": "Fashion",
+    "price": 4192,
+    "tags": [
+      "bluetooth",
+      "premium",
+      "computer"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Smart Office Desk",
+    "description": "Harber - Predovic's most advanced Chair technology increases lovable capabilities",
+    "category": "Home",
+    "price": 1608,
+    "tags": [
+      "portable",
+      "bluetooth",
+      "storage"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Compact Sunglasses",
+    "description": "Our salty-inspired Car brings a taste of luxury to your babyish lifestyle",
+    "category": "Fashion",
+    "price": 1728,
+    "tags": [
+      "office",
+      "professional",
+      "premium"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Ultra Office Desk",
+    "description": "Fantastic Tuna designed with Silk for inconsequential performance",
+    "category": "Home",
+    "price": 1454,
+    "tags": [
+      "audio",
+      "computer",
+      "professional"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Wireless Sneakers",
+    "description": "Discover the charming new Mouse with an exciting mix of Steel ingredients",
+    "category": "Fashion",
+    "price": 307,
+    "tags": [
+      "gaming",
+      "usb",
+      "portable"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Modern Mixer Grinder",
+    "description": "The Melanie Shirt is the latest in a series of noteworthy products from Metz Group",
+    "category": "Home",
+    "price": 3140,
+    "tags": [
+      "travel",
+      "fitness",
+      "portable"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Gaming Wireless Mouse",
+    "description": "Generic Soap designed with Bamboo for feline performance",
+    "category": "Electronics",
+    "price": 3523,
+    "tags": [
+      "gaming",
+      "storage",
+      "office"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Advanced Electric Kettle",
+    "description": "The salmon Hat combines Cambodia aesthetics with Niobium-based durability",
+    "category": "Home",
+    "price": 1906,
+    "tags": [
+      "travel",
+      "storage",
+      "wireless"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Modern Gym Gloves",
+    "description": "New Pizza model with 53 GB RAM, 928 GB storage, and admired features",
+    "category": "Sports",
+    "price": 1875,
+    "tags": [
+      "professional",
+      "computer",
+      "rgb"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Ultra JavaScript Guide",
+    "description": "New gold Tuna with ergonomic design for rectangular comfort",
+    "category": "Books",
+    "price": 2937,
+    "tags": [
+      "audio",
+      "professional",
+      "rgb"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Premium Gym Gloves",
+    "description": "Stylish Sausages designed to make you stand out with naughty looks",
+    "category": "Sports",
+    "price": 953,
+    "tags": [
+      "audio",
+      "bluetooth",
+      "professional"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Smart Gym Gloves",
+    "description": "Professional-grade Gloves perfect for vengeful training and recreational use",
+    "category": "Sports",
+    "price": 4188,
+    "tags": [
+      "travel",
+      "usb",
+      "fitness"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Compact Gym Gloves",
+    "description": "Savor the savory essence in our Car, designed for queasy culinary adventures",
+    "category": "Sports",
+    "price": 3666,
+    "tags": [
+      "professional",
+      "fitness",
+      "audio"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Professional Formal Shirt",
+    "description": "Modern Pants designed with Concrete for made-up performance",
+    "category": "Fashion",
+    "price": 1100,
+    "tags": [
+      "computer",
+      "fitness",
+      "gaming"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Advanced Basketball",
+    "description": "Christiansen, Grimes and Flatley-Barrows's most advanced Gloves technology increases yummy capabilities",
+    "category": "Sports",
+    "price": 1845,
+    "tags": [
+      "gaming",
+      "usb",
+      "premium"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Smart Sunglasses",
+    "description": "Ergonomic Fish made with Steel for all-day devoted support",
+    "category": "Fashion",
+    "price": 1248,
+    "tags": [
+      "office",
+      "rgb",
+      "travel"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Wireless Gym Gloves",
+    "description": "Stylish Shoes designed to make you stand out with hard-to-find looks",
+    "category": "Sports",
+    "price": 3557,
+    "tags": [
+      "travel",
+      "usb",
+      "audio"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Compact Water Bottle",
+    "description": "Our deer-friendly Cheese ensures spiteful comfort for your pets",
+    "category": "Sports",
+    "price": 2037,
+    "tags": [
+      "rgb",
+      "office",
+      "audio"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Portable Mixer Grinder",
+    "description": "Introducing the Niger-inspired Chicken, blending carefree style with local craftsmanship",
+    "category": "Home",
+    "price": 4983,
+    "tags": [
+      "wireless",
+      "smart",
+      "office"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Modern Microphone",
+    "description": "Ergonomic Computer made with Wooden for all-day noted support",
+    "category": "Electronics",
+    "price": 3614,
+    "tags": [
+      "premium",
+      "portable",
+      "smart"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Gaming SSD",
+    "description": "Ergonomic Ball made with Plastic for all-day helpless support",
+    "category": "Electronics",
+    "price": 2108,
+    "tags": [
+      "storage",
+      "rgb",
+      "usb"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Ultra Monitor",
+    "description": "Our penguin-friendly Bike ensures fixed comfort for your pets",
+    "category": "Electronics",
+    "price": 3302,
+    "tags": [
+      "fitness",
+      "office",
+      "rgb"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Ultra USB-C Hub",
+    "description": "Discover the numb new Keyboard with an exciting mix of Wooden ingredients",
+    "category": "Electronics",
+    "price": 3545,
+    "tags": [
+      "smart",
+      "portable",
+      "fitness"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Portable Docker Deep Dive",
+    "description": "New plum Keyboard with ergonomic design for cloudy comfort",
+    "category": "Books",
+    "price": 1194,
+    "tags": [
+      "wireless",
+      "travel",
+      "rgb"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Smart Cricket Bat",
+    "description": "Professional-grade Cheese perfect for glittering training and recreational use",
+    "category": "Sports",
+    "price": 1904,
+    "tags": [
+      "rgb",
+      "wireless",
+      "smart"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Professional Wireless Earbuds",
+    "description": "Our juicy-inspired Fish brings a taste of luxury to your woeful lifestyle",
+    "category": "Electronics",
+    "price": 3892,
+    "tags": [
+      "premium",
+      "travel",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Ultra Clean Code",
+    "description": "New silver Chair with ergonomic design for abandoned comfort",
+    "category": "Books",
+    "price": 1398,
+    "tags": [
+      "office",
+      "portable",
+      "premium"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Modern Backpack",
+    "description": "Innovative Pizza featuring chubby technology and Steel construction",
+    "category": "Fashion",
+    "price": 4342,
+    "tags": [
+      "portable",
+      "professional",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Wireless Dumbbells",
+    "description": "The Adaptive tangible forecast Tuna offers reliable performance and ruddy design",
+    "category": "Sports",
+    "price": 2484,
+    "tags": [
+      "smart",
+      "storage",
+      "wireless"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Portable Running T-Shirt",
+    "description": "Savor the savory essence in our Mouse, designed for inborn culinary adventures",
+    "category": "Fashion",
+    "price": 1761,
+    "tags": [
+      "fitness",
+      "gaming",
+      "computer"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Portable Wireless Earbuds",
+    "description": "Professional-grade Computer perfect for stark training and recreational use",
+    "category": "Electronics",
+    "price": 1898,
+    "tags": [
+      "travel",
+      "gaming",
+      "rgb"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Premium Python Basics",
+    "description": "Featuring Copernicium-enhanced technology, our Fish offers unparalleled strident performance",
+    "category": "Books",
+    "price": 537,
+    "tags": [
+      "bluetooth",
+      "portable",
+      "gaming"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Gaming Gym Gloves",
+    "description": "The Smart intangible approach Chicken offers reliable performance and strict design",
+    "category": "Sports",
+    "price": 1765,
+    "tags": [
+      "usb",
+      "premium",
+      "fitness"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Advanced JavaScript Guide",
+    "description": "Discover the whale-like agility of our Chair, perfect for husky users",
+    "category": "Books",
+    "price": 4847,
+    "tags": [
+      "audio",
+      "premium",
+      "fitness"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Compact Kubernetes Essentials",
+    "description": "The Universal maximized local area network Tuna offers reliable performance and unlawful design",
+    "category": "Books",
+    "price": 2366,
+    "tags": [
+      "wireless",
+      "premium",
+      "usb"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Premium Running T-Shirt",
+    "description": "The Distributed analyzing benchmark Mouse offers reliable performance and annual design",
+    "category": "Fashion",
+    "price": 2839,
+    "tags": [
+      "office",
+      "usb",
+      "gaming"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Compact System Design",
+    "description": "Ergonomic Chair made with Metal for all-day alive support",
+    "category": "Books",
+    "price": 2141,
+    "tags": [
+      "fitness",
+      "portable",
+      "storage"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Professional Sneakers",
+    "description": "Featuring Fluorine-enhanced technology, our Chicken offers unparalleled robust performance",
+    "category": "Fashion",
+    "price": 4556,
+    "tags": [
+      "rgb",
+      "smart",
+      "storage"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Premium Storage Box",
+    "description": "New silver Chicken with ergonomic design for secondary comfort",
+    "category": "Home",
+    "price": 1384,
+    "tags": [
+      "office",
+      "travel",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Premium Mechanical Keyboard",
+    "description": "Stylish Keyboard designed to make you stand out with idolized looks",
+    "category": "Electronics",
+    "price": 2073,
+    "tags": [
+      "smart",
+      "office",
+      "wireless"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Premium Skipping Rope",
+    "description": "Savor the rich essence in our Pants, designed for impish culinary adventures",
+    "category": "Sports",
+    "price": 1555,
+    "tags": [
+      "audio",
+      "wireless",
+      "professional"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Gaming React Cookbook",
+    "description": "Savor the delicious essence in our Cheese, designed for favorite culinary adventures",
+    "category": "Books",
+    "price": 1038,
+    "tags": [
+      "office",
+      "bluetooth",
+      "premium"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Gaming Air Fryer",
+    "description": "Our fox-friendly Bike ensures perfumed comfort for your pets",
+    "category": "Home",
+    "price": 3362,
+    "tags": [
+      "wireless",
+      "premium",
+      "storage"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Portable Smart Watch",
+    "description": "Our spicy-inspired Bacon brings a taste of luxury to your live lifestyle",
+    "category": "Electronics",
+    "price": 3484,
+    "tags": [
+      "storage",
+      "audio",
+      "smart"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Ultra Laptop Stand",
+    "description": "Discover the giraffe-like agility of our Cheese, perfect for nimble users",
+    "category": "Electronics",
+    "price": 1802,
+    "tags": [
+      "computer",
+      "gaming",
+      "audio"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Smart Node.js Handbook",
+    "description": "New Car model with 1 GB RAM, 631 GB storage, and minty features",
+    "category": "Books",
+    "price": 3082,
+    "tags": [
+      "smart",
+      "gaming",
+      "portable"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Gaming Algorithms",
+    "description": "Reynolds, Goodwin and Bogisich's most advanced Sausages technology increases unlined capabilities",
+    "category": "Books",
+    "price": 3756,
+    "tags": [
+      "premium",
+      "travel",
+      "usb"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Premium Basketball",
+    "description": "Discover the tiger-like agility of our Bike, perfect for mysterious users",
+    "category": "Sports",
+    "price": 3220,
+    "tags": [
+      "storage",
+      "computer",
+      "audio"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Premium Mixer Grinder",
+    "description": "Discover the unrealistic new Car with an exciting mix of Plastic ingredients",
+    "category": "Home",
+    "price": 2451,
+    "tags": [
+      "bluetooth",
+      "gaming",
+      "office"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Portable Gym Gloves",
+    "description": "Parker and Sons's most advanced Tuna technology increases critical capabilities",
+    "category": "Sports",
+    "price": 907,
+    "tags": [
+      "usb",
+      "storage",
+      "audio"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Portable Running T-Shirt",
+    "description": "The Virtual holistic conglomeration Chips offers reliable performance and scratchy design",
+    "category": "Fashion",
+    "price": 4285,
+    "tags": [
+      "storage",
+      "office",
+      "audio"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Gaming React Cookbook",
+    "description": "Discover the shark-like agility of our Soap, perfect for standard users",
+    "category": "Books",
+    "price": 2951,
+    "tags": [
+      "storage",
+      "gaming",
+      "office"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Wireless Clean Code",
+    "description": "Innovative Bacon featuring vibrant technology and Rubber construction",
+    "category": "Books",
+    "price": 828,
+    "tags": [
+      "office",
+      "professional",
+      "portable"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Premium Monitor",
+    "description": "New Gloves model with 13 GB RAM, 234 GB storage, and frilly features",
+    "category": "Electronics",
+    "price": 4983,
+    "tags": [
+      "rgb",
+      "gaming",
+      "computer"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Premium Wallet",
+    "description": "The Total resilient collaboration Salad offers reliable performance and male design",
+    "category": "Fashion",
+    "price": 2636,
+    "tags": [
+      "computer",
+      "travel",
+      "smart"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Portable Cricket Bat",
+    "description": "Discover the zebra-like agility of our Ball, perfect for dismal users",
+    "category": "Sports",
+    "price": 973,
+    "tags": [
+      "professional",
+      "rgb",
+      "audio"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Professional Yoga Mat",
+    "description": "New turquoise Keyboard with ergonomic design for wee comfort",
+    "category": "Sports",
+    "price": 1714,
+    "tags": [
+      "smart",
+      "travel",
+      "premium"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Advanced Running Shoes",
+    "description": "Experience the purple brilliance of our Shirt, perfect for quintessential environments",
+    "category": "Sports",
+    "price": 4105,
+    "tags": [
+      "bluetooth",
+      "audio",
+      "professional"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Wireless Sneakers",
+    "description": "Savor the delicious essence in our Tuna, designed for blushing culinary adventures",
+    "category": "Fashion",
+    "price": 2066,
+    "tags": [
+      "professional",
+      "travel",
+      "computer"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Compact Wireless Earbuds",
+    "description": "Our squirrel-friendly Bike ensures swift comfort for your pets",
+    "category": "Electronics",
+    "price": 3777,
+    "tags": [
+      "office",
+      "portable",
+      "fitness"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Professional Hoodie",
+    "description": "Savor the rich essence in our Computer, designed for legal culinary adventures",
+    "category": "Fashion",
+    "price": 2479,
+    "tags": [
+      "computer",
+      "smart",
+      "rgb"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Gaming Water Bottle",
+    "description": "Zemlak, Abbott and Muller's most advanced Salad technology increases perky capabilities",
+    "category": "Sports",
+    "price": 1560,
+    "tags": [
+      "usb",
+      "computer",
+      "storage"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Premium Running Shoes",
+    "description": "Savor the bitter essence in our Fish, designed for golden culinary adventures",
+    "category": "Sports",
+    "price": 386,
+    "tags": [
+      "smart",
+      "storage",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Smart System Design",
+    "description": "Ergonomic Mouse made with Rubber for all-day content support",
+    "category": "Books",
+    "price": 3167,
+    "tags": [
+      "smart",
+      "premium",
+      "computer"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Modern Webcam",
+    "description": "Discover the fish-like agility of our Tuna, perfect for pure users",
+    "category": "Electronics",
+    "price": 4593,
+    "tags": [
+      "premium",
+      "portable",
+      "fitness"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Wireless Jeans",
+    "description": "Innovative Ball featuring awful technology and Bamboo construction",
+    "category": "Fashion",
+    "price": 330,
+    "tags": [
+      "usb",
+      "office",
+      "smart"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Ultra Graphics Tablet",
+    "description": "Our salty-inspired Hat brings a taste of luxury to your glittering lifestyle",
+    "category": "Electronics",
+    "price": 917,
+    "tags": [
+      "usb",
+      "travel",
+      "wireless"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Smart Resistance Band",
+    "description": "Experience the sky blue brilliance of our Ball, perfect for prime environments",
+    "category": "Sports",
+    "price": 976,
+    "tags": [
+      "professional",
+      "office",
+      "wireless"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Modern Air Fryer",
+    "description": "Introducing the Papua New Guinea-inspired Bike, blending competent style with local craftsmanship",
+    "category": "Home",
+    "price": 2922,
+    "tags": [
+      "fitness",
+      "gaming",
+      "wireless"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Professional Design Patterns",
+    "description": "Ergonomic Tuna made with Metal for all-day elementary support",
+    "category": "Books",
+    "price": 577,
+    "tags": [
+      "office",
+      "fitness",
+      "portable"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Ultra Resistance Band",
+    "description": "Discover the parrot-like agility of our Shirt, perfect for shy users",
+    "category": "Sports",
+    "price": 567,
+    "tags": [
+      "audio",
+      "professional",
+      "travel"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Smart Formal Shirt",
+    "description": "Rustic Cheese designed with Steel for wee performance",
+    "category": "Fashion",
+    "price": 4547,
+    "tags": [
+      "gaming",
+      "smart",
+      "wireless"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Modern Electric Kettle",
+    "description": "Discover the bee-like agility of our Fish, perfect for skeletal users",
+    "category": "Home",
+    "price": 1042,
+    "tags": [
+      "wireless",
+      "professional",
+      "premium"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Compact Bluetooth Speaker",
+    "description": "Discover the gleaming new Cheese with an exciting mix of Steel ingredients",
+    "category": "Electronics",
+    "price": 3354,
+    "tags": [
+      "office",
+      "audio",
+      "premium"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Modern Hoodie",
+    "description": "Discover the sardonic new Shirt with an exciting mix of Ceramic ingredients",
+    "category": "Fashion",
+    "price": 4605,
+    "tags": [
+      "office",
+      "usb",
+      "smart"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Premium Cricket Bat",
+    "description": "The Universal client-server portal Keyboard offers reliable performance and similar design",
+    "category": "Sports",
+    "price": 1140,
+    "tags": [
+      "gaming",
+      "usb",
+      "smart"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Wireless Python Basics",
+    "description": "Stylish Chips designed to make you stand out with well-made looks",
+    "category": "Books",
+    "price": 4584,
+    "tags": [
+      "audio",
+      "wireless",
+      "professional"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Wireless Resistance Band",
+    "description": "Oriental Gloves designed with Ceramic for wealthy performance",
+    "category": "Sports",
+    "price": 364,
+    "tags": [
+      "office",
+      "usb",
+      "computer"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Smart Algorithms",
+    "description": "Mills LLC's most advanced Soap technology increases graceful capabilities",
+    "category": "Books",
+    "price": 244,
+    "tags": [
+      "professional",
+      "gaming",
+      "computer"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Gaming Water Bottle",
+    "description": "Ergonomic Fish made with Steel for all-day hurtful support",
+    "category": "Sports",
+    "price": 2528,
+    "tags": [
+      "audio",
+      "rgb",
+      "premium"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Compact Sneakers",
+    "description": "The azure Bike combines Montserrat aesthetics with Boron-based durability",
+    "category": "Fashion",
+    "price": 2023,
+    "tags": [
+      "storage",
+      "gaming",
+      "portable"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Professional Graphics Tablet",
+    "description": "The Phased static focus group Towels offers reliable performance and ill-fated design",
+    "category": "Electronics",
+    "price": 4218,
+    "tags": [
+      "smart",
+      "office",
+      "gaming"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Advanced Storage Box",
+    "description": "New tan Chicken with ergonomic design for exalted comfort",
+    "category": "Home",
+    "price": 1808,
+    "tags": [
+      "computer",
+      "usb",
+      "portable"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Portable Clean Code",
+    "description": "Experience the green brilliance of our Mouse, perfect for wide environments",
+    "category": "Books",
+    "price": 2924,
+    "tags": [
+      "fitness",
+      "premium",
+      "audio"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Smart Dining Chair",
+    "description": "Our fresh-inspired Shirt brings a taste of luxury to your gruesome lifestyle",
+    "category": "Home",
+    "price": 2417,
+    "tags": [
+      "office",
+      "portable",
+      "usb"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Advanced Sneakers",
+    "description": "Featuring Indium-enhanced technology, our Towels offers unparalleled fatherly performance",
+    "category": "Fashion",
+    "price": 1897,
+    "tags": [
+      "portable",
+      "fitness",
+      "rgb"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Gaming Hoodie",
+    "description": "New Bacon model with 79 GB RAM, 321 GB storage, and scary features",
+    "category": "Fashion",
+    "price": 1307,
+    "tags": [
+      "professional",
+      "rgb",
+      "audio"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Gaming Graphics Tablet",
+    "description": "Goyette, Wolff and MacGyver's most advanced Hat technology increases velvety capabilities",
+    "category": "Electronics",
+    "price": 4703,
+    "tags": [
+      "bluetooth",
+      "rgb",
+      "portable"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Modern Mechanical Keyboard",
+    "description": "Introducing the Papua New Guinea-inspired Bike, blending well-to-do style with local craftsmanship",
+    "category": "Electronics",
+    "price": 3662,
+    "tags": [
+      "professional",
+      "rgb",
+      "audio"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Modern Electric Kettle",
+    "description": "The turquoise Chips combines Cayman Islands aesthetics with Phosphorus-based durability",
+    "category": "Home",
+    "price": 380,
+    "tags": [
+      "portable",
+      "premium",
+      "travel"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Portable Webcam",
+    "description": "Gulgowski - Russel's most advanced Pants technology increases bowed capabilities",
+    "category": "Electronics",
+    "price": 1544,
+    "tags": [
+      "premium",
+      "professional",
+      "gaming"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Compact Dumbbells",
+    "description": "The sleek and minty Hat comes with orange LED lighting for smart functionality",
+    "category": "Sports",
+    "price": 2540,
+    "tags": [
+      "fitness",
+      "premium",
+      "wireless"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Portable Football",
+    "description": "Walter, D'Amore and Kautzer's most advanced Chicken technology increases inexperienced capabilities",
+    "category": "Sports",
+    "price": 1024,
+    "tags": [
+      "office",
+      "portable",
+      "premium"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Premium Webcam",
+    "description": "The teal Gloves combines Puerto Rico aesthetics with Sulfur-based durability",
+    "category": "Electronics",
+    "price": 2627,
+    "tags": [
+      "office",
+      "rgb",
+      "usb"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Premium Running Shoes",
+    "description": "The Front-line analyzing capability Car offers reliable performance and granular design",
+    "category": "Sports",
+    "price": 1634,
+    "tags": [
+      "portable",
+      "fitness",
+      "travel"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Modern Clean Code",
+    "description": "The sleek and unaware Chips comes with ivory LED lighting for smart functionality",
+    "category": "Books",
+    "price": 1732,
+    "tags": [
+      "travel",
+      "premium",
+      "office"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Compact Mixer Grinder",
+    "description": "New mint green Mouse with ergonomic design for zealous comfort",
+    "category": "Home",
+    "price": 3006,
+    "tags": [
+      "premium",
+      "computer",
+      "audio"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Wireless Microphone",
+    "description": "Ergonomic Soap made with Concrete for all-day experienced support",
+    "category": "Electronics",
+    "price": 3766,
+    "tags": [
+      "bluetooth",
+      "usb",
+      "portable"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Advanced SSD",
+    "description": "Stylish Gloves designed to make you stand out with enchanted looks",
+    "category": "Electronics",
+    "price": 2410,
+    "tags": [
+      "bluetooth",
+      "portable",
+      "rgb"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Modern Leather Jacket",
+    "description": "The sleek and nifty Bacon comes with orchid LED lighting for smart functionality",
+    "category": "Fashion",
+    "price": 3959,
+    "tags": [
+      "storage",
+      "travel",
+      "premium"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Portable USB-C Hub",
+    "description": "Professional-grade Gloves perfect for smart training and recreational use",
+    "category": "Electronics",
+    "price": 860,
+    "tags": [
+      "storage",
+      "rgb",
+      "smart"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Professional Graphics Tablet",
+    "description": "New Table model with 40 GB RAM, 290 GB storage, and utilized features",
+    "category": "Electronics",
+    "price": 3397,
+    "tags": [
+      "storage",
+      "fitness",
+      "smart"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Smart Water Bottle",
+    "description": "Our zebra-friendly Sausages ensures advanced comfort for your pets",
+    "category": "Sports",
+    "price": 4458,
+    "tags": [
+      "audio",
+      "premium",
+      "smart"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Premium Leather Jacket",
+    "description": "New Cheese model with 23 GB RAM, 572 GB storage, and greedy features",
+    "category": "Fashion",
+    "price": 1939,
+    "tags": [
+      "rgb",
+      "bluetooth",
+      "professional"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Compact Algorithms",
+    "description": "Experience the salmon brilliance of our Bike, perfect for pushy environments",
+    "category": "Books",
+    "price": 3648,
+    "tags": [
+      "usb",
+      "smart",
+      "travel"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Advanced Node.js Handbook",
+    "description": "Fresh Ball designed with Granite for unfortunate performance",
+    "category": "Books",
+    "price": 1703,
+    "tags": [
+      "storage",
+      "travel",
+      "portable"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Smart Dumbbells",
+    "description": "Discover the impish new Pants with an exciting mix of Steel ingredients",
+    "category": "Sports",
+    "price": 3197,
+    "tags": [
+      "professional",
+      "storage",
+      "premium"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Compact Wireless Mouse",
+    "description": "Featuring Livermorium-enhanced technology, our Table offers unparalleled infamous performance",
+    "category": "Electronics",
+    "price": 2290,
+    "tags": [
+      "computer",
+      "gaming",
+      "storage"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Premium Jeans",
+    "description": "Introducing the Iceland-inspired Bike, blending palatable style with local craftsmanship",
+    "category": "Fashion",
+    "price": 771,
+    "tags": [
+      "premium",
+      "office",
+      "smart"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Premium Vacuum Cleaner",
+    "description": "Innovative Salad featuring any technology and Silk construction",
+    "category": "Home",
+    "price": 1297,
+    "tags": [
+      "storage",
+      "wireless",
+      "smart"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Professional Electric Kettle",
+    "description": "Innovative Chips featuring kooky technology and Gold construction",
+    "category": "Home",
+    "price": 1421,
+    "tags": [
+      "bluetooth",
+      "rgb",
+      "gaming"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Modern SSD",
+    "description": "Our bat-friendly Chips ensures reasonable comfort for your pets",
+    "category": "Electronics",
+    "price": 4277,
+    "tags": [
+      "travel",
+      "fitness",
+      "professional"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Smart Running T-Shirt",
+    "description": "Our delicious-inspired Car brings a taste of luxury to your hospitable lifestyle",
+    "category": "Fashion",
+    "price": 607,
+    "tags": [
+      "usb",
+      "wireless",
+      "smart"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Wireless Cricket Bat",
+    "description": "Our savory-inspired Computer brings a taste of luxury to your strident lifestyle",
+    "category": "Sports",
+    "price": 659,
+    "tags": [
+      "bluetooth",
+      "professional",
+      "rgb"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Compact Python Basics",
+    "description": "Experience the purple brilliance of our Soap, perfect for unfinished environments",
+    "category": "Books",
+    "price": 1936,
+    "tags": [
+      "portable",
+      "travel",
+      "wireless"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Portable JavaScript Guide",
+    "description": "Kunde - Hermiston's most advanced Mouse technology increases apt capabilities",
+    "category": "Books",
+    "price": 4622,
+    "tags": [
+      "smart",
+      "premium",
+      "portable"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Professional Hoodie",
+    "description": "Professional-grade Fish perfect for critical training and recreational use",
+    "category": "Fashion",
+    "price": 4577,
+    "tags": [
+      "usb",
+      "computer",
+      "wireless"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Premium Coffee Maker",
+    "description": "Innovative Fish featuring warm technology and Steel construction",
+    "category": "Home",
+    "price": 3409,
+    "tags": [
+      "storage",
+      "rgb",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Gaming Running Shoes",
+    "description": "Innovative Salad featuring immaculate technology and Marble construction",
+    "category": "Sports",
+    "price": 3442,
+    "tags": [
+      "storage",
+      "computer",
+      "professional"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Gaming React Cookbook",
+    "description": "The sleek and querulous Bike comes with tan LED lighting for smart functionality",
+    "category": "Books",
+    "price": 457,
+    "tags": [
+      "portable",
+      "usb",
+      "office"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Modern Electric Kettle",
+    "description": "Professional-grade Tuna perfect for authentic training and recreational use",
+    "category": "Home",
+    "price": 792,
+    "tags": [
+      "professional",
+      "computer",
+      "premium"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Portable Hoodie",
+    "description": "Introducing the Turks and Caicos Islands-inspired Hat, blending scented style with local craftsmanship",
+    "category": "Fashion",
+    "price": 1193,
+    "tags": [
+      "computer",
+      "gaming",
+      "usb"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Wireless Webcam",
+    "description": "The Destin Chair is the latest in a series of dramatic products from Jenkins, Batz and Heathcote",
+    "category": "Electronics",
+    "price": 2390,
+    "tags": [
+      "travel",
+      "portable",
+      "gaming"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Modern Football",
+    "description": "Innovative Mouse featuring earnest technology and Rubber construction",
+    "category": "Sports",
+    "price": 3661,
+    "tags": [
+      "gaming",
+      "premium",
+      "travel"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Premium Basketball",
+    "description": "New plum Hat with ergonomic design for candid comfort",
+    "category": "Sports",
+    "price": 2656,
+    "tags": [
+      "office",
+      "audio",
+      "portable"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Gaming Clean Code",
+    "description": "Discover the straight new Gloves with an exciting mix of Ceramic ingredients",
+    "category": "Books",
+    "price": 3853,
+    "tags": [
+      "travel",
+      "professional",
+      "audio"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Professional Design Patterns",
+    "description": "Experience the pink brilliance of our Shoes, perfect for responsible environments",
+    "category": "Books",
+    "price": 219,
+    "tags": [
+      "smart",
+      "storage",
+      "audio"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Compact Docker Deep Dive",
+    "description": "Ergonomic Bacon made with Concrete for all-day deadly support",
+    "category": "Books",
+    "price": 1856,
+    "tags": [
+      "computer",
+      "travel",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Compact Air Fryer",
+    "description": "New green Sausages with ergonomic design for rectangular comfort",
+    "category": "Home",
+    "price": 2236,
+    "tags": [
+      "smart",
+      "rgb",
+      "usb"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Professional Running Shoes",
+    "description": "New Pizza model with 33 GB RAM, 694 GB storage, and all features",
+    "category": "Sports",
+    "price": 1805,
+    "tags": [
+      "office",
+      "storage",
+      "rgb"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Advanced Docker Deep Dive",
+    "description": "Professional-grade Soap perfect for empty training and recreational use",
+    "category": "Books",
+    "price": 676,
+    "tags": [
+      "gaming",
+      "wireless",
+      "smart"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Premium Running Shoes",
+    "description": "Aufderhar and Sons's most advanced Chair technology increases favorable capabilities",
+    "category": "Sports",
+    "price": 1964,
+    "tags": [
+      "usb",
+      "computer",
+      "wireless"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Modern Skipping Rope",
+    "description": "Discover the unrealistic new Computer with an exciting mix of Bronze ingredients",
+    "category": "Sports",
+    "price": 1815,
+    "tags": [
+      "premium",
+      "rgb",
+      "travel"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Gaming Dumbbells",
+    "description": "Professional-grade Pizza perfect for burly training and recreational use",
+    "category": "Sports",
+    "price": 4795,
+    "tags": [
+      "office",
+      "storage",
+      "audio"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Ultra Resistance Band",
+    "description": "Innovative Keyboard featuring calculating technology and Steel construction",
+    "category": "Sports",
+    "price": 3087,
+    "tags": [
+      "usb",
+      "travel",
+      "storage"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Professional Gaming Keyboard",
+    "description": "The Visionary fault-tolerant firmware Computer offers reliable performance and minor design",
+    "category": "Electronics",
+    "price": 2255,
+    "tags": [
+      "rgb",
+      "premium",
+      "audio"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Premium Hoodie",
+    "description": "New pink Mouse with ergonomic design for hot comfort",
+    "category": "Fashion",
+    "price": 2688,
+    "tags": [
+      "computer",
+      "storage",
+      "premium"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Modern Mixer Grinder",
+    "description": "The Susie Keyboard is the latest in a series of insistent products from Wiegand and Sons",
+    "category": "Home",
+    "price": 755,
+    "tags": [
+      "wireless",
+      "usb",
+      "portable"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Portable Electric Kettle",
+    "description": "Featuring Aluminium-enhanced technology, our Chair offers unparalleled frugal performance",
+    "category": "Home",
+    "price": 3134,
+    "tags": [
+      "fitness",
+      "wireless",
+      "computer"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Professional Cricket Bat",
+    "description": "Our juicy-inspired Keyboard brings a taste of luxury to your artistic lifestyle",
+    "category": "Sports",
+    "price": 1787,
+    "tags": [
+      "smart",
+      "bluetooth",
+      "usb"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Smart Ceiling Fan",
+    "description": "Discover the flamingo-like agility of our Tuna, perfect for glass users",
+    "category": "Home",
+    "price": 4843,
+    "tags": [
+      "fitness",
+      "smart",
+      "wireless"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Wireless Gym Gloves",
+    "description": "Our lion-friendly Keyboard ensures livid comfort for your pets",
+    "category": "Sports",
+    "price": 4476,
+    "tags": [
+      "premium",
+      "computer",
+      "professional"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Ultra Running Shoes",
+    "description": "Experience the indigo brilliance of our Bacon, perfect for needy environments",
+    "category": "Sports",
+    "price": 1821,
+    "tags": [
+      "computer",
+      "office",
+      "fitness"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Gaming Vacuum Cleaner",
+    "description": "Discover the wise new Salad with an exciting mix of Silk ingredients",
+    "category": "Home",
+    "price": 1435,
+    "tags": [
+      "premium",
+      "audio",
+      "fitness"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Advanced SSD",
+    "description": "O'Hara - Bartell's most advanced Ball technology increases ironclad capabilities",
+    "category": "Electronics",
+    "price": 360,
+    "tags": [
+      "usb",
+      "bluetooth",
+      "professional"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Gaming Running Shoes",
+    "description": "Mertz, Gleichner and Bins's most advanced Gloves technology increases pale capabilities",
+    "category": "Sports",
+    "price": 2271,
+    "tags": [
+      "storage",
+      "fitness",
+      "portable"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Gaming Sunglasses",
+    "description": "The sleek and naughty Pants comes with gold LED lighting for smart functionality",
+    "category": "Fashion",
+    "price": 2920,
+    "tags": [
+      "fitness",
+      "wireless",
+      "professional"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Premium Clean Code",
+    "description": "The Triple-buffered client-server alliance Mouse offers reliable performance and indelible design",
+    "category": "Books",
+    "price": 1503,
+    "tags": [
+      "bluetooth",
+      "office",
+      "smart"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Advanced Electric Kettle",
+    "description": "The purple Hat combines Turks and Caicos Islands aesthetics with Rutherfordium-based durability",
+    "category": "Home",
+    "price": 3069,
+    "tags": [
+      "wireless",
+      "gaming",
+      "audio"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Compact Electric Kettle",
+    "description": "Discover the dolphin-like agility of our Gloves, perfect for steel users",
+    "category": "Home",
+    "price": 3317,
+    "tags": [
+      "gaming",
+      "fitness",
+      "premium"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Compact Jeans",
+    "description": "Rustic Bike designed with Rubber for miserable performance",
+    "category": "Fashion",
+    "price": 296,
+    "tags": [
+      "office",
+      "computer",
+      "audio"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Wireless Backpack",
+    "description": "Savor the fluffy essence in our Table, designed for runny culinary adventures",
+    "category": "Fashion",
+    "price": 4436,
+    "tags": [
+      "wireless",
+      "audio",
+      "office"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Modern USB-C Hub",
+    "description": "New salmon Mouse with ergonomic design for careless comfort",
+    "category": "Electronics",
+    "price": 3617,
+    "tags": [
+      "rgb",
+      "premium",
+      "office"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Smart Air Fryer",
+    "description": "Our sour-inspired Ball brings a taste of luxury to your unimportant lifestyle",
+    "category": "Home",
+    "price": 801,
+    "tags": [
+      "portable",
+      "rgb",
+      "premium"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Advanced Coffee Maker",
+    "description": "Featuring Astatine-enhanced technology, our Hat offers unparalleled moist performance",
+    "category": "Home",
+    "price": 3261,
+    "tags": [
+      "office",
+      "smart",
+      "computer"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Modern Yoga Mat",
+    "description": "Our wolf-friendly Shirt ensures pink comfort for your pets",
+    "category": "Sports",
+    "price": 1034,
+    "tags": [
+      "smart",
+      "wireless",
+      "office"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Professional Python Basics",
+    "description": "Stylish Cheese designed to make you stand out with calculating looks",
+    "category": "Books",
+    "price": 2897,
+    "tags": [
+      "travel",
+      "computer",
+      "storage"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Advanced Gym Gloves",
+    "description": "Innovative Mouse featuring soggy technology and Marble construction",
+    "category": "Sports",
+    "price": 942,
+    "tags": [
+      "wireless",
+      "computer",
+      "fitness"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Gaming Cap",
+    "description": "Our shark-friendly Towels ensures normal comfort for your pets",
+    "category": "Fashion",
+    "price": 2051,
+    "tags": [
+      "premium",
+      "bluetooth",
+      "fitness"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Smart Yoga Mat",
+    "description": "Our moist-inspired Table brings a taste of luxury to your flimsy lifestyle",
+    "category": "Sports",
+    "price": 4240,
+    "tags": [
+      "audio",
+      "smart",
+      "storage"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Compact Storage Box",
+    "description": "Our zesty-inspired Soap brings a taste of luxury to your calculating lifestyle",
+    "category": "Home",
+    "price": 4272,
+    "tags": [
+      "gaming",
+      "smart",
+      "travel"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Gaming SSD",
+    "description": "Featuring Actinium-enhanced technology, our Ball offers unparalleled ultimate performance",
+    "category": "Electronics",
+    "price": 4424,
+    "tags": [
+      "premium",
+      "fitness",
+      "audio"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Smart Python Basics",
+    "description": "The Josephine Gloves is the latest in a series of monstrous products from Kautzer - Champlin",
+    "category": "Books",
+    "price": 3883,
+    "tags": [
+      "gaming",
+      "travel",
+      "storage"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Premium Vacuum Cleaner",
+    "description": "Experience the plum brilliance of our Gloves, perfect for infamous environments",
+    "category": "Home",
+    "price": 4530,
+    "tags": [
+      "storage",
+      "professional",
+      "rgb"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Gaming Kubernetes Essentials",
+    "description": "The Rowland Bike is the latest in a series of innocent products from Shanahan, Brown and Mosciski",
+    "category": "Books",
+    "price": 530,
+    "tags": [
+      "usb",
+      "portable",
+      "travel"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Ultra Microphone",
+    "description": "The Total tertiary hardware Bike offers reliable performance and ragged design",
+    "category": "Electronics",
+    "price": 3224,
+    "tags": [
+      "fitness",
+      "usb",
+      "professional"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Gaming Cricket Bat",
+    "description": "Experience the cyan brilliance of our Car, perfect for agreeable environments",
+    "category": "Sports",
+    "price": 1473,
+    "tags": [
+      "office",
+      "smart",
+      "storage"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Wireless Monitor",
+    "description": "New Bike model with 52 GB RAM, 125 GB storage, and handy features",
+    "category": "Electronics",
+    "price": 393,
+    "tags": [
+      "computer",
+      "rgb",
+      "professional"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Premium Leather Jacket",
+    "description": "Featuring Chlorine-enhanced technology, our Gloves offers unparalleled total performance",
+    "category": "Fashion",
+    "price": 1331,
+    "tags": [
+      "wireless",
+      "office",
+      "portable"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Modern Formal Shirt",
+    "description": "New plum Gloves with ergonomic design for proud comfort",
+    "category": "Fashion",
+    "price": 710,
+    "tags": [
+      "office",
+      "premium",
+      "gaming"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Smart USB-C Hub",
+    "description": "Sleek Ball designed with Bronze for cumbersome performance",
+    "category": "Electronics",
+    "price": 337,
+    "tags": [
+      "fitness",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Wireless Wireless Mouse",
+    "description": "Our golden-inspired Bacon brings a taste of luxury to your smug lifestyle",
+    "category": "Electronics",
+    "price": 3692,
+    "tags": [
+      "wireless",
+      "audio",
+      "portable"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Ultra Dumbbells",
+    "description": "Kemmer Inc's most advanced Mouse technology increases vibrant capabilities",
+    "category": "Sports",
+    "price": 2950,
+    "tags": [
+      "portable",
+      "professional",
+      "computer"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Compact Algorithms",
+    "description": "Bespoke Mouse designed with Marble for superb performance",
+    "category": "Books",
+    "price": 803,
+    "tags": [
+      "premium",
+      "usb",
+      "computer"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Advanced Dining Chair",
+    "description": "Innovative Car featuring genuine technology and Gold construction",
+    "category": "Home",
+    "price": 3621,
+    "tags": [
+      "rgb",
+      "portable",
+      "office"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Smart Yoga Mat",
+    "description": "The Stewart Chair is the latest in a series of roasted products from Jaskolski - O'Hara",
+    "category": "Sports",
+    "price": 2217,
+    "tags": [
+      "storage",
+      "usb",
+      "office"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Compact Coffee Maker",
+    "description": "New Car model with 46 GB RAM, 617 GB storage, and light features",
+    "category": "Home",
+    "price": 2181,
+    "tags": [
+      "smart",
+      "storage",
+      "travel"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Smart SSD",
+    "description": "The Diverse exuding hardware Chair offers reliable performance and gloomy design",
+    "category": "Electronics",
+    "price": 1828,
+    "tags": [
+      "usb",
+      "smart",
+      "portable"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Premium Ceiling Fan",
+    "description": "Stylish Keyboard designed to make you stand out with clumsy looks",
+    "category": "Home",
+    "price": 4714,
+    "tags": [
+      "fitness",
+      "professional",
+      "wireless"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Smart Wireless Earbuds",
+    "description": "The turquoise Chair combines French Southern Territories aesthetics with Beryllium-based durability",
+    "category": "Electronics",
+    "price": 3485,
+    "tags": [
+      "usb",
+      "bluetooth",
+      "travel"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Premium Storage Box",
+    "description": "Savor the crunchy essence in our Gloves, designed for alienated culinary adventures",
+    "category": "Home",
+    "price": 2791,
+    "tags": [
+      "rgb",
+      "bluetooth",
+      "office"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Compact Electric Kettle",
+    "description": "Our creamy-inspired Mouse brings a taste of luxury to your helpless lifestyle",
+    "category": "Home",
+    "price": 3009,
+    "tags": [
+      "usb",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Compact Electric Kettle",
+    "description": "Discover the expensive new Mouse with an exciting mix of Bamboo ingredients",
+    "category": "Home",
+    "price": 1442,
+    "tags": [
+      "wireless",
+      "gaming",
+      "premium"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Premium React Cookbook",
+    "description": "New indigo Fish with ergonomic design for admired comfort",
+    "category": "Books",
+    "price": 2434,
+    "tags": [
+      "storage",
+      "computer",
+      "usb"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Advanced Running Shoes",
+    "description": "Stylish Keyboard designed to make you stand out with far-off looks",
+    "category": "Sports",
+    "price": 2608,
+    "tags": [
+      "bluetooth",
+      "smart",
+      "gaming"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Smart Docker Deep Dive",
+    "description": "The sleek and ragged Soap comes with blue LED lighting for smart functionality",
+    "category": "Books",
+    "price": 3843,
+    "tags": [
+      "premium",
+      "travel",
+      "wireless"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Portable Gym Gloves",
+    "description": "The sleek and quick Pizza comes with azure LED lighting for smart functionality",
+    "category": "Sports",
+    "price": 2444,
+    "tags": [
+      "travel",
+      "computer",
+      "portable"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Smart Node.js Handbook",
+    "description": "New Gloves model with 15 GB RAM, 131 GB storage, and left features",
+    "category": "Books",
+    "price": 4547,
+    "tags": [
+      "office",
+      "smart",
+      "portable"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Premium LED Lamp",
+    "description": "Innovative Chair featuring stale technology and Concrete construction",
+    "category": "Home",
+    "price": 2445,
+    "tags": [
+      "office",
+      "computer",
+      "smart"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Gaming Storage Box",
+    "description": "Stylish Keyboard designed to make you stand out with superb looks",
+    "category": "Home",
+    "price": 1873,
+    "tags": [
+      "audio",
+      "wireless",
+      "office"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Ultra Basketball",
+    "description": "Introducing the Qatar-inspired Chips, blending warlike style with local craftsmanship",
+    "category": "Sports",
+    "price": 405,
+    "tags": [
+      "gaming",
+      "computer",
+      "travel"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Wireless Formal Shirt",
+    "description": "Savor the savory essence in our Bacon, designed for rough culinary adventures",
+    "category": "Fashion",
+    "price": 1415,
+    "tags": [
+      "audio",
+      "travel",
+      "gaming"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Portable Wireless Earbuds",
+    "description": "Introducing the Curaçao-inspired Hat, blending stormy style with local craftsmanship",
+    "category": "Electronics",
+    "price": 2076,
+    "tags": [
+      "wireless",
+      "fitness",
+      "office"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Modern JavaScript Guide",
+    "description": "Stylish Cheese designed to make you stand out with grizzled looks",
+    "category": "Books",
+    "price": 1429,
+    "tags": [
+      "gaming",
+      "portable",
+      "usb"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Modern Jeans",
+    "description": "Innovative Sausages featuring royal technology and Marble construction",
+    "category": "Fashion",
+    "price": 2003,
+    "tags": [
+      "portable",
+      "usb",
+      "gaming"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Modern Skipping Rope",
+    "description": "Professional-grade Tuna perfect for cooperative training and recreational use",
+    "category": "Sports",
+    "price": 1772,
+    "tags": [
+      "premium",
+      "audio",
+      "rgb"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Professional Leather Jacket",
+    "description": "Innovative Chair featuring burly technology and Gold construction",
+    "category": "Fashion",
+    "price": 3759,
+    "tags": [
+      "fitness",
+      "rgb",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Smart Resistance Band",
+    "description": "Professional-grade Bike perfect for incomplete training and recreational use",
+    "category": "Sports",
+    "price": 538,
+    "tags": [
+      "usb",
+      "fitness",
+      "audio"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Professional Skipping Rope",
+    "description": "Discover the elementary new Sausages with an exciting mix of Wooden ingredients",
+    "category": "Sports",
+    "price": 1953,
+    "tags": [
+      "office",
+      "wireless",
+      "travel"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Advanced Python Basics",
+    "description": "Featuring Magnesium-enhanced technology, our Tuna offers unparalleled slow performance",
+    "category": "Books",
+    "price": 3854,
+    "tags": [
+      "wireless",
+      "gaming",
+      "professional"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Gaming Docker Deep Dive",
+    "description": "The Regina Bike is the latest in a series of lined products from Hoeger, Nikolaus and Lakin",
+    "category": "Books",
+    "price": 1692,
+    "tags": [
+      "storage",
+      "computer",
+      "professional"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Smart Basketball",
+    "description": "New Shoes model with 52 GB RAM, 581 GB storage, and juicy features",
+    "category": "Sports",
+    "price": 1914,
+    "tags": [
+      "travel",
+      "professional",
+      "office"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Ultra Node.js Handbook",
+    "description": "Professional-grade Chips perfect for functional training and recreational use",
+    "category": "Books",
+    "price": 1211,
+    "tags": [
+      "computer",
+      "audio",
+      "wireless"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Professional Dining Chair",
+    "description": "Professional-grade Chips perfect for grizzled training and recreational use",
+    "category": "Home",
+    "price": 4476,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "premium"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Advanced Cricket Bat",
+    "description": "Innovative Hat featuring that technology and Granite construction",
+    "category": "Sports",
+    "price": 2254,
+    "tags": [
+      "audio",
+      "travel",
+      "portable"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Gaming Clean Code",
+    "description": "Experience the silver brilliance of our Fish, perfect for distinct environments",
+    "category": "Books",
+    "price": 2456,
+    "tags": [
+      "storage",
+      "office",
+      "travel"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Professional Jeans",
+    "description": "Our tender-inspired Shoes brings a taste of luxury to your obedient lifestyle",
+    "category": "Fashion",
+    "price": 3702,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "usb"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Gaming Wallet",
+    "description": "Introducing the Tajikistan-inspired Table, blending amused style with local craftsmanship",
+    "category": "Fashion",
+    "price": 498,
+    "tags": [
+      "gaming",
+      "premium",
+      "storage"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Compact Mixer Grinder",
+    "description": "Savor the tender essence in our Table, designed for little culinary adventures",
+    "category": "Home",
+    "price": 4807,
+    "tags": [
+      "usb",
+      "professional",
+      "office"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Compact Wallet",
+    "description": "Professional-grade Keyboard perfect for illustrious training and recreational use",
+    "category": "Fashion",
+    "price": 4938,
+    "tags": [
+      "storage",
+      "fitness",
+      "premium"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Ultra Football",
+    "description": "Introducing the Vietnam-inspired Computer, blending dead style with local craftsmanship",
+    "category": "Sports",
+    "price": 265,
+    "tags": [
+      "portable",
+      "premium",
+      "travel"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Premium SSD",
+    "description": "The tan Bike combines Egypt aesthetics with Strontium-based durability",
+    "category": "Electronics",
+    "price": 4339,
+    "tags": [
+      "professional",
+      "computer",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Portable Formal Shirt",
+    "description": "The Gerard Sausages is the latest in a series of dazzling products from Bosco Group",
+    "category": "Fashion",
+    "price": 2997,
+    "tags": [
+      "fitness",
+      "usb",
+      "audio"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Gaming Python Basics",
+    "description": "Discover the polished new Mouse with an exciting mix of Gold ingredients",
+    "category": "Books",
+    "price": 415,
+    "tags": [
+      "office",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Professional Ceiling Fan",
+    "description": "Ergonomic Sausages made with Bronze for all-day darling support",
+    "category": "Home",
+    "price": 4089,
+    "tags": [
+      "wireless",
+      "usb",
+      "gaming"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Premium Sunglasses",
+    "description": "Stylish Cheese designed to make you stand out with sinful looks",
+    "category": "Fashion",
+    "price": 576,
+    "tags": [
+      "gaming",
+      "fitness",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Premium Hoodie",
+    "description": "Stylish Soap designed to make you stand out with lazy looks",
+    "category": "Fashion",
+    "price": 518,
+    "tags": [
+      "professional",
+      "portable",
+      "rgb"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Wireless Office Desk",
+    "description": "Savor the juicy essence in our Fish, designed for dead culinary adventures",
+    "category": "Home",
+    "price": 4397,
+    "tags": [
+      "portable",
+      "office",
+      "usb"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Ultra Formal Shirt",
+    "description": "Ergonomic Computer made with Gold for all-day rare support",
+    "category": "Fashion",
+    "price": 4132,
+    "tags": [
+      "gaming",
+      "usb",
+      "rgb"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Gaming Jeans",
+    "description": "Professional-grade Tuna perfect for outlying training and recreational use",
+    "category": "Fashion",
+    "price": 4656,
+    "tags": [
+      "wireless",
+      "smart",
+      "travel"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Portable Resistance Band",
+    "description": "Our kangaroo-friendly Keyboard ensures sneaky comfort for your pets",
+    "category": "Sports",
+    "price": 4033,
+    "tags": [
+      "professional",
+      "usb",
+      "audio"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Ultra Sneakers",
+    "description": "Professional-grade Soap perfect for aching training and recreational use",
+    "category": "Fashion",
+    "price": 1544,
+    "tags": [
+      "premium",
+      "audio",
+      "fitness"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Professional Backpack",
+    "description": "New Shirt model with 28 GB RAM, 669 GB storage, and substantial features",
+    "category": "Fashion",
+    "price": 3412,
+    "tags": [
+      "portable",
+      "gaming",
+      "fitness"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Premium Kubernetes Essentials",
+    "description": "The azure Ball combines Greenland aesthetics with Strontium-based durability",
+    "category": "Books",
+    "price": 2306,
+    "tags": [
+      "bluetooth",
+      "usb",
+      "portable"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Wireless Sneakers",
+    "description": "Introducing the Curaçao-inspired Cheese, blending voluminous style with local craftsmanship",
+    "category": "Fashion",
+    "price": 808,
+    "tags": [
+      "professional",
+      "rgb",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Premium Running T-Shirt",
+    "description": "Featuring Americium-enhanced technology, our Shoes offers unparalleled dazzling performance",
+    "category": "Fashion",
+    "price": 1832,
+    "tags": [
+      "fitness",
+      "bluetooth",
+      "audio"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Advanced Basketball",
+    "description": "Introducing the Turks and Caicos Islands-inspired Towels, blending personal style with local craftsmanship",
+    "category": "Sports",
+    "price": 545,
+    "tags": [
+      "travel",
+      "bluetooth",
+      "premium"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Professional Cap",
+    "description": "Reilly, O'Keefe and Jast's most advanced Fish technology increases rewarding capabilities",
+    "category": "Fashion",
+    "price": 3190,
+    "tags": [
+      "office",
+      "portable",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Modern Coffee Maker",
+    "description": "Professional-grade Car perfect for awesome training and recreational use",
+    "category": "Home",
+    "price": 3793,
+    "tags": [
+      "usb",
+      "premium",
+      "portable"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Modern Electric Kettle",
+    "description": "The turquoise Soap combines Croatia aesthetics with Plutonium-based durability",
+    "category": "Home",
+    "price": 3993,
+    "tags": [
+      "travel",
+      "wireless",
+      "computer"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Gaming Dumbbells",
+    "description": "The Willard Car is the latest in a series of winged products from Krajcik LLC",
+    "category": "Sports",
+    "price": 373,
+    "tags": [
+      "audio",
+      "computer",
+      "gaming"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Advanced Power Bank",
+    "description": "The Intuitive empowering protocol Fish offers reliable performance and interesting design",
+    "category": "Electronics",
+    "price": 432,
+    "tags": [
+      "audio",
+      "travel",
+      "usb"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Advanced Sneakers",
+    "description": "Professional-grade Ball perfect for reflecting training and recreational use",
+    "category": "Fashion",
+    "price": 2066,
+    "tags": [
+      "bluetooth",
+      "storage",
+      "professional"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Compact Mechanical Keyboard",
+    "description": "Our delicious-inspired Gloves brings a taste of luxury to your mindless lifestyle",
+    "category": "Electronics",
+    "price": 488,
+    "tags": [
+      "storage",
+      "wireless",
+      "portable"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Advanced USB-C Hub",
+    "description": "New maroon Car with ergonomic design for lawful comfort",
+    "category": "Electronics",
+    "price": 930,
+    "tags": [
+      "professional",
+      "storage",
+      "portable"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Premium Office Desk",
+    "description": "Featuring Plutonium-enhanced technology, our Soap offers unparalleled sugary performance",
+    "category": "Home",
+    "price": 3567,
+    "tags": [
+      "storage",
+      "computer",
+      "travel"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Ultra System Design",
+    "description": "Our rich-inspired Chips brings a taste of luxury to your lawful lifestyle",
+    "category": "Books",
+    "price": 1736,
+    "tags": [
+      "computer",
+      "smart",
+      "premium"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Portable Yoga Mat",
+    "description": "McKenzie, Hamill and Weissnat's most advanced Car technology increases stark capabilities",
+    "category": "Sports",
+    "price": 1857,
+    "tags": [
+      "smart",
+      "office",
+      "professional"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Compact Wireless Mouse",
+    "description": "Stylish Ball designed to make you stand out with showy looks",
+    "category": "Electronics",
+    "price": 4455,
+    "tags": [
+      "bluetooth",
+      "computer",
+      "travel"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Compact Docker Deep Dive",
+    "description": "Discover the frail new Pants with an exciting mix of Granite ingredients",
+    "category": "Books",
+    "price": 4026,
+    "tags": [
+      "office",
+      "gaming",
+      "storage"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Wireless Storage Box",
+    "description": "Experience the ivory brilliance of our Soap, perfect for slushy environments",
+    "category": "Home",
+    "price": 4979,
+    "tags": [
+      "bluetooth",
+      "computer",
+      "rgb"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Gaming Docker Deep Dive",
+    "description": "Generic Pants designed with Steel for dazzling performance",
+    "category": "Books",
+    "price": 3296,
+    "tags": [
+      "audio",
+      "bluetooth",
+      "gaming"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Professional Jeans",
+    "description": "Professional-grade Shirt perfect for red training and recreational use",
+    "category": "Fashion",
+    "price": 1153,
+    "tags": [
+      "rgb",
+      "computer",
+      "storage"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Portable Electric Kettle",
+    "description": "Bespoke Bike designed with Metal for lovable performance",
+    "category": "Home",
+    "price": 4449,
+    "tags": [
+      "professional",
+      "usb",
+      "wireless"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Advanced Electric Kettle",
+    "description": "Featuring Titanium-enhanced technology, our Car offers unparalleled animated performance",
+    "category": "Home",
+    "price": 4733,
+    "tags": [
+      "usb",
+      "storage",
+      "professional"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Smart Webcam",
+    "description": "Buckridge - Jast's most advanced Mouse technology increases substantial capabilities",
+    "category": "Electronics",
+    "price": 2510,
+    "tags": [
+      "bluetooth",
+      "storage",
+      "computer"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Modern Cap",
+    "description": "The Eileen Computer is the latest in a series of arid products from Rempel LLC",
+    "category": "Fashion",
+    "price": 2657,
+    "tags": [
+      "audio",
+      "fitness",
+      "rgb"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Portable Football",
+    "description": "Ergonomic Gloves made with Bamboo for all-day mindless support",
+    "category": "Sports",
+    "price": 1255,
+    "tags": [
+      "usb",
+      "portable",
+      "computer"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Ultra JavaScript Guide",
+    "description": "The sleek and agreeable Mouse comes with lime LED lighting for smart functionality",
+    "category": "Books",
+    "price": 595,
+    "tags": [
+      "computer",
+      "wireless",
+      "professional"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Smart Cap",
+    "description": "Experience the orchid brilliance of our Chair, perfect for junior environments",
+    "category": "Fashion",
+    "price": 2086,
+    "tags": [
+      "gaming",
+      "bluetooth",
+      "travel"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Advanced Football",
+    "description": "Featuring Dysprosium-enhanced technology, our Shirt offers unparalleled babyish performance",
+    "category": "Sports",
+    "price": 1747,
+    "tags": [
+      "office",
+      "portable",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Advanced Ceiling Fan",
+    "description": "New cyan Salad with ergonomic design for unsung comfort",
+    "category": "Home",
+    "price": 755,
+    "tags": [
+      "gaming",
+      "premium",
+      "fitness"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Advanced Vacuum Cleaner",
+    "description": "Quigley and Sons's most advanced Tuna technology increases upset capabilities",
+    "category": "Home",
+    "price": 4001,
+    "tags": [
+      "audio",
+      "gaming",
+      "fitness"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Gaming Hoodie",
+    "description": "The Charlene Shirt is the latest in a series of improbable products from Jast, Gleichner and Kemmer",
+    "category": "Fashion",
+    "price": 233,
+    "tags": [
+      "storage",
+      "office",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Ultra Smart Watch",
+    "description": "Our zesty-inspired Table brings a taste of luxury to your muddy lifestyle",
+    "category": "Electronics",
+    "price": 2926,
+    "tags": [
+      "gaming",
+      "travel",
+      "computer"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Professional Sunglasses",
+    "description": "Ergonomic Cheese made with Metal for all-day immense support",
+    "category": "Fashion",
+    "price": 2843,
+    "tags": [
+      "professional",
+      "usb",
+      "smart"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Smart SSD",
+    "description": "Innovative Ball featuring elementary technology and Cotton construction",
+    "category": "Electronics",
+    "price": 2060,
+    "tags": [
+      "office",
+      "professional",
+      "rgb"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Premium Electric Kettle",
+    "description": "Innovative Chips featuring lasting technology and Cotton construction",
+    "category": "Home",
+    "price": 3947,
+    "tags": [
+      "professional",
+      "rgb",
+      "portable"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Gaming Hoodie",
+    "description": "The black Chips combines Bosnia and Herzegovina aesthetics with Nobelium-based durability",
+    "category": "Fashion",
+    "price": 1467,
+    "tags": [
+      "portable",
+      "travel",
+      "computer"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Smart Hoodie",
+    "description": "New tan Salad with ergonomic design for mad comfort",
+    "category": "Fashion",
+    "price": 773,
+    "tags": [
+      "usb",
+      "premium",
+      "smart"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Advanced Leather Jacket",
+    "description": "Our lion-friendly Keyboard ensures worthwhile comfort for your pets",
+    "category": "Fashion",
+    "price": 3683,
+    "tags": [
+      "wireless",
+      "office",
+      "gaming"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Modern Clean Code",
+    "description": "Introducing the South Georgia and the South Sandwich Islands-inspired Chips, blending definitive style with local craftsmanship",
+    "category": "Books",
+    "price": 3849,
+    "tags": [
+      "travel",
+      "fitness",
+      "wireless"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Portable Ceiling Fan",
+    "description": "Our spicy-inspired Chicken brings a taste of luxury to your straight lifestyle",
+    "category": "Home",
+    "price": 2302,
+    "tags": [
+      "professional",
+      "smart",
+      "storage"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Compact Storage Box",
+    "description": "The lavender Salad combines Cameroon aesthetics with Osmium-based durability",
+    "category": "Home",
+    "price": 3653,
+    "tags": [
+      "premium",
+      "professional",
+      "office"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Compact Monitor",
+    "description": "The blue Cheese combines United Kingdom aesthetics with Rhenium-based durability",
+    "category": "Electronics",
+    "price": 1952,
+    "tags": [
+      "travel",
+      "professional",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Ultra Wireless Mouse",
+    "description": "Our crunchy-inspired Pants brings a taste of luxury to your unrealistic lifestyle",
+    "category": "Electronics",
+    "price": 4936,
+    "tags": [
+      "smart",
+      "rgb",
+      "usb"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Smart LED Lamp",
+    "description": "The Streamlined mobile array Hat offers reliable performance and superb design",
+    "category": "Home",
+    "price": 3315,
+    "tags": [
+      "usb",
+      "fitness",
+      "computer"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Wireless SSD",
+    "description": "New purple Chicken with ergonomic design for far-flung comfort",
+    "category": "Electronics",
+    "price": 434,
+    "tags": [
+      "audio",
+      "gaming",
+      "computer"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Wireless Vacuum Cleaner",
+    "description": "The grey Pizza combines Chad aesthetics with Astatine-based durability",
+    "category": "Home",
+    "price": 1106,
+    "tags": [
+      "rgb",
+      "office",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Gaming Sunglasses",
+    "description": "Kuhn - Kling's most advanced Table technology increases afraid capabilities",
+    "category": "Fashion",
+    "price": 1160,
+    "tags": [
+      "smart",
+      "wireless",
+      "premium"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Premium Ceiling Fan",
+    "description": "New Chips model with 14 GB RAM, 482 GB storage, and serpentine features",
+    "category": "Home",
+    "price": 4332,
+    "tags": [
+      "wireless",
+      "usb",
+      "fitness"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Wireless Leather Jacket",
+    "description": "Introducing the Mauritania-inspired Sausages, blending hopeful style with local craftsmanship",
+    "category": "Fashion",
+    "price": 3734,
+    "tags": [
+      "computer",
+      "bluetooth",
+      "office"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Modern Mixer Grinder",
+    "description": "Innovative Bike featuring yearly technology and Metal construction",
+    "category": "Home",
+    "price": 3259,
+    "tags": [
+      "premium",
+      "bluetooth",
+      "office"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Portable Docker Deep Dive",
+    "description": "New Sausages model with 20 GB RAM, 136 GB storage, and neat features",
+    "category": "Books",
+    "price": 1610,
+    "tags": [
+      "storage",
+      "fitness",
+      "usb"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Wireless Leather Jacket",
+    "description": "Our monkey-friendly Chicken ensures prestigious comfort for your pets",
+    "category": "Fashion",
+    "price": 416,
+    "tags": [
+      "bluetooth",
+      "travel",
+      "usb"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Premium Hoodie",
+    "description": "New Hat model with 53 GB RAM, 882 GB storage, and coarse features",
+    "category": "Fashion",
+    "price": 1502,
+    "tags": [
+      "premium",
+      "portable",
+      "professional"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Advanced Jeans",
+    "description": "The black Towels combines Curaçao aesthetics with Darmstadtium-based durability",
+    "category": "Fashion",
+    "price": 4443,
+    "tags": [
+      "usb",
+      "wireless",
+      "gaming"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Smart Cap",
+    "description": "Savor the golden essence in our Car, designed for sunny culinary adventures",
+    "category": "Fashion",
+    "price": 3736,
+    "tags": [
+      "professional",
+      "smart",
+      "office"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Smart Water Bottle",
+    "description": "The Enhanced heuristic migration Shoes offers reliable performance and giving design",
+    "category": "Sports",
+    "price": 1121,
+    "tags": [
+      "bluetooth",
+      "travel",
+      "usb"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Professional Design Patterns",
+    "description": "Introducing the Zambia-inspired Cheese, blending pleased style with local craftsmanship",
+    "category": "Books",
+    "price": 2639,
+    "tags": [
+      "gaming",
+      "usb",
+      "wireless"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Advanced System Design",
+    "description": "Professional-grade Shirt perfect for infatuated training and recreational use",
+    "category": "Books",
+    "price": 2438,
+    "tags": [
+      "wireless",
+      "professional",
+      "storage"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Smart Node.js Handbook",
+    "description": "Breitenberg - Parisian's most advanced Car technology increases recent capabilities",
+    "category": "Books",
+    "price": 1288,
+    "tags": [
+      "office",
+      "smart",
+      "computer"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Modern Gaming Keyboard",
+    "description": "Tasty Gloves designed with Ceramic for sour performance",
+    "category": "Electronics",
+    "price": 574,
+    "tags": [
+      "wireless",
+      "gaming",
+      "smart"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Modern Monitor",
+    "description": "Discover the natural new Salad with an exciting mix of Bronze ingredients",
+    "category": "Electronics",
+    "price": 1984,
+    "tags": [
+      "office",
+      "gaming",
+      "portable"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Gaming Water Bottle",
+    "description": "Stylish Bacon designed to make you stand out with chilly looks",
+    "category": "Sports",
+    "price": 4661,
+    "tags": [
+      "usb",
+      "computer",
+      "smart"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Premium Electric Kettle",
+    "description": "Innovative Gloves featuring fine technology and Granite construction",
+    "category": "Home",
+    "price": 4472,
+    "tags": [
+      "audio",
+      "office",
+      "gaming"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Ultra Ceiling Fan",
+    "description": "Discover the fish-like agility of our Salad, perfect for astonishing users",
+    "category": "Home",
+    "price": 347,
+    "tags": [
+      "usb",
+      "wireless",
+      "portable"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Ultra Dining Chair",
+    "description": "The sleek and ambitious Chips comes with cyan LED lighting for smart functionality",
+    "category": "Home",
+    "price": 4603,
+    "tags": [
+      "office",
+      "storage",
+      "travel"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Professional React Cookbook",
+    "description": "Featuring Hafnium-enhanced technology, our Bacon offers unparalleled submissive performance",
+    "category": "Books",
+    "price": 2431,
+    "tags": [
+      "premium",
+      "storage",
+      "rgb"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Gaming Leather Jacket",
+    "description": "The sleek and unusual Table comes with maroon LED lighting for smart functionality",
+    "category": "Fashion",
+    "price": 2950,
+    "tags": [
+      "rgb",
+      "smart",
+      "gaming"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Portable Office Desk",
+    "description": "The indigo Computer combines Latvia aesthetics with Lutetium-based durability",
+    "category": "Home",
+    "price": 2965,
+    "tags": [
+      "storage",
+      "rgb",
+      "wireless"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Advanced Yoga Mat",
+    "description": "Our squirrel-friendly Car ensures quiet comfort for your pets",
+    "category": "Sports",
+    "price": 2776,
+    "tags": [
+      "storage",
+      "gaming",
+      "office"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Ultra Skipping Rope",
+    "description": "Experience the tan brilliance of our Bike, perfect for jagged environments",
+    "category": "Sports",
+    "price": 636,
+    "tags": [
+      "storage",
+      "travel",
+      "rgb"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Portable Algorithms",
+    "description": "Savor the fresh essence in our Mouse, designed for small culinary adventures",
+    "category": "Books",
+    "price": 5000,
+    "tags": [
+      "bluetooth",
+      "portable",
+      "storage"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Advanced Sunglasses",
+    "description": "Featuring Sulfur-enhanced technology, our Table offers unparalleled waterlogged performance",
+    "category": "Fashion",
+    "price": 4059,
+    "tags": [
+      "office",
+      "audio",
+      "gaming"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Compact Resistance Band",
+    "description": "Stylish Keyboard designed to make you stand out with precious looks",
+    "category": "Sports",
+    "price": 1808,
+    "tags": [
+      "audio",
+      "professional",
+      "portable"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Wireless Cricket Bat",
+    "description": "Ergonomic Hat made with Ceramic for all-day rough support",
+    "category": "Sports",
+    "price": 2883,
+    "tags": [
+      "usb",
+      "office",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Advanced System Design",
+    "description": "The Dorian Cheese is the latest in a series of afraid products from Corkery - Schuppe",
+    "category": "Books",
+    "price": 860,
+    "tags": [
+      "professional",
+      "rgb",
+      "fitness"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Professional Jeans",
+    "description": "Ergonomic Chicken made with Concrete for all-day total support",
+    "category": "Fashion",
+    "price": 3664,
+    "tags": [
+      "professional",
+      "fitness",
+      "storage"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Gaming Office Desk",
+    "description": "Featuring Einsteinium-enhanced technology, our Towels offers unparalleled worthwhile performance",
+    "category": "Home",
+    "price": 1098,
+    "tags": [
+      "bluetooth",
+      "storage",
+      "fitness"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Modern Coffee Maker",
+    "description": "Experience the olive brilliance of our Mouse, perfect for multicolored environments",
+    "category": "Home",
+    "price": 4011,
+    "tags": [
+      "audio",
+      "travel",
+      "premium"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Gaming Sneakers",
+    "description": "Professional-grade Keyboard perfect for sour training and recreational use",
+    "category": "Fashion",
+    "price": 765,
+    "tags": [
+      "audio",
+      "smart",
+      "office"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Ultra Leather Jacket",
+    "description": "Sipes Group's most advanced Fish technology increases fine capabilities",
+    "category": "Fashion",
+    "price": 4974,
+    "tags": [
+      "rgb",
+      "gaming",
+      "professional"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Premium JavaScript Guide",
+    "description": "Howell Inc's most advanced Gloves technology increases scared capabilities",
+    "category": "Books",
+    "price": 2264,
+    "tags": [
+      "travel",
+      "wireless",
+      "smart"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Portable Wallet",
+    "description": "Stylish Ball designed to make you stand out with tough looks",
+    "category": "Fashion",
+    "price": 4041,
+    "tags": [
+      "wireless",
+      "storage",
+      "smart"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Ultra Vacuum Cleaner",
+    "description": "Walter-Connelly - Feeney's most advanced Chips technology increases realistic capabilities",
+    "category": "Home",
+    "price": 3611,
+    "tags": [
+      "computer",
+      "usb",
+      "rgb"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Advanced Cap",
+    "description": "Savor the fluffy essence in our Towels, designed for unwilling culinary adventures",
+    "category": "Fashion",
+    "price": 2029,
+    "tags": [
+      "portable",
+      "smart",
+      "fitness"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Advanced Cricket Bat",
+    "description": "The Secured executive framework Computer offers reliable performance and all design",
+    "category": "Sports",
+    "price": 4491,
+    "tags": [
+      "usb",
+      "fitness",
+      "travel"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Compact Football",
+    "description": "Discover the trustworthy new Sausages with an exciting mix of Steel ingredients",
+    "category": "Sports",
+    "price": 3680,
+    "tags": [
+      "office",
+      "usb",
+      "travel"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Modern Wireless Mouse",
+    "description": "Savor the golden essence in our Mouse, designed for frank culinary adventures",
+    "category": "Electronics",
+    "price": 1727,
+    "tags": [
+      "travel",
+      "office",
+      "gaming"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Modern System Design",
+    "description": "Savor the spicy essence in our Salad, designed for husky culinary adventures",
+    "category": "Books",
+    "price": 1889,
+    "tags": [
+      "gaming",
+      "wireless",
+      "computer"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Smart Hoodie",
+    "description": "The red Sausages combines Chile aesthetics with Lanthanum-based durability",
+    "category": "Fashion",
+    "price": 1263,
+    "tags": [
+      "wireless",
+      "storage",
+      "travel"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Professional Running T-Shirt",
+    "description": "Innovative Sausages featuring greedy technology and Gold construction",
+    "category": "Fashion",
+    "price": 1928,
+    "tags": [
+      "portable",
+      "gaming",
+      "professional"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Wireless JavaScript Guide",
+    "description": "Ergonomic Tuna made with Wooden for all-day polite support",
+    "category": "Books",
+    "price": 4282,
+    "tags": [
+      "storage",
+      "professional",
+      "rgb"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Gaming Sneakers",
+    "description": "Schiller Inc's most advanced Shirt technology increases witty capabilities",
+    "category": "Fashion",
+    "price": 841,
+    "tags": [
+      "bluetooth",
+      "computer",
+      "travel"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Portable Microphone",
+    "description": "Innovative Mouse featuring limited technology and Gold construction",
+    "category": "Electronics",
+    "price": 4934,
+    "tags": [
+      "office",
+      "usb",
+      "audio"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Smart Resistance Band",
+    "description": "New cyan Cheese with ergonomic design for enlightened comfort",
+    "category": "Sports",
+    "price": 1071,
+    "tags": [
+      "office",
+      "smart",
+      "wireless"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Advanced Storage Box",
+    "description": "Featuring Neptunium-enhanced technology, our Shoes offers unparalleled svelte performance",
+    "category": "Home",
+    "price": 4931,
+    "tags": [
+      "premium",
+      "smart",
+      "professional"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Smart Formal Shirt",
+    "description": "Our turtle-friendly Shirt ensures submissive comfort for your pets",
+    "category": "Fashion",
+    "price": 616,
+    "tags": [
+      "portable",
+      "smart",
+      "wireless"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Smart Water Bottle",
+    "description": "Our fresh-inspired Chicken brings a taste of luxury to your lawful lifestyle",
+    "category": "Sports",
+    "price": 2212,
+    "tags": [
+      "fitness",
+      "office",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Compact Mixer Grinder",
+    "description": "Our juicy-inspired Pizza brings a taste of luxury to your crooked lifestyle",
+    "category": "Home",
+    "price": 2823,
+    "tags": [
+      "usb",
+      "premium",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Smart Wallet",
+    "description": "The fuchsia Shoes combines Bolivia aesthetics with Neptunium-based durability",
+    "category": "Fashion",
+    "price": 781,
+    "tags": [
+      "travel",
+      "gaming",
+      "wireless"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Advanced Storage Box",
+    "description": "Ergonomic Soap made with Wooden for all-day unlined support",
+    "category": "Home",
+    "price": 4686,
+    "tags": [
+      "portable",
+      "rgb",
+      "premium"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Modern Leather Jacket",
+    "description": "New indigo Keyboard with ergonomic design for emotional comfort",
+    "category": "Fashion",
+    "price": 3705,
+    "tags": [
+      "professional",
+      "usb",
+      "travel"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Portable Python Basics",
+    "description": "Ergonomic Soap made with Gold for all-day velvety support",
+    "category": "Books",
+    "price": 1786,
+    "tags": [
+      "storage",
+      "rgb",
+      "computer"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Wireless Sunglasses",
+    "description": "The Open-source client-driven standardization Shirt offers reliable performance and writhing design",
+    "category": "Fashion",
+    "price": 426,
+    "tags": [
+      "premium",
+      "usb",
+      "wireless"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Gaming Node.js Handbook",
+    "description": "Introducing the Slovenia-inspired Car, blending vivid style with local craftsmanship",
+    "category": "Books",
+    "price": 4279,
+    "tags": [
+      "professional",
+      "premium",
+      "fitness"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Premium Webcam",
+    "description": "Innovative Sausages featuring overcooked technology and Plastic construction",
+    "category": "Electronics",
+    "price": 1719,
+    "tags": [
+      "bluetooth",
+      "computer",
+      "fitness"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Portable Docker Deep Dive",
+    "description": "Stylish Tuna designed to make you stand out with ornery looks",
+    "category": "Books",
+    "price": 2563,
+    "tags": [
+      "smart",
+      "audio",
+      "premium"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Ultra Dumbbells",
+    "description": "New blue Sausages with ergonomic design for shiny comfort",
+    "category": "Sports",
+    "price": 596,
+    "tags": [
+      "wireless",
+      "gaming",
+      "travel"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Wireless Gaming Keyboard",
+    "description": "New pink Keyboard with ergonomic design for insecure comfort",
+    "category": "Electronics",
+    "price": 1091,
+    "tags": [
+      "usb",
+      "travel",
+      "smart"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Advanced Algorithms",
+    "description": "The sleek and arid Pizza comes with lime LED lighting for smart functionality",
+    "category": "Books",
+    "price": 4701,
+    "tags": [
+      "premium",
+      "portable",
+      "smart"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Modern Wallet",
+    "description": "Ergonomic Mouse made with Granite for all-day animated support",
+    "category": "Fashion",
+    "price": 1288,
+    "tags": [
+      "premium",
+      "rgb",
+      "travel"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Modern Kubernetes Essentials",
+    "description": "New indigo Chair with ergonomic design for weighty comfort",
+    "category": "Books",
+    "price": 2331,
+    "tags": [
+      "computer",
+      "wireless",
+      "office"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Wireless Design Patterns",
+    "description": "Awesome Keyboard designed with Silk for tricky performance",
+    "category": "Books",
+    "price": 4605,
+    "tags": [
+      "bluetooth",
+      "office",
+      "storage"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Compact Algorithms",
+    "description": "Our deer-friendly Shirt ensures plain comfort for your pets",
+    "category": "Books",
+    "price": 1470,
+    "tags": [
+      "computer",
+      "premium",
+      "portable"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Wireless Storage Box",
+    "description": "The sleek and charming Shirt comes with pink LED lighting for smart functionality",
+    "category": "Home",
+    "price": 3309,
+    "tags": [
+      "professional",
+      "smart",
+      "storage"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Modern Docker Deep Dive",
+    "description": "Discover the whale-like agility of our Tuna, perfect for complicated users",
+    "category": "Books",
+    "price": 3331,
+    "tags": [
+      "rgb",
+      "smart",
+      "fitness"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Professional JavaScript Guide",
+    "description": "Stylish Cheese designed to make you stand out with unsung looks",
+    "category": "Books",
+    "price": 1720,
+    "tags": [
+      "fitness",
+      "usb",
+      "premium"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Modern JavaScript Guide",
+    "description": "The sleek and flashy Sausages comes with grey LED lighting for smart functionality",
+    "category": "Books",
+    "price": 3122,
+    "tags": [
+      "travel",
+      "fitness",
+      "usb"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Ultra Clean Code",
+    "description": "Ergonomic Ball made with Rubber for all-day sinful support",
+    "category": "Books",
+    "price": 3652,
+    "tags": [
+      "smart",
+      "gaming",
+      "audio"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Portable Kubernetes Essentials",
+    "description": "Ergonomic Hat made with Bronze for all-day livid support",
+    "category": "Books",
+    "price": 3179,
+    "tags": [
+      "fitness",
+      "office",
+      "professional"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Smart Backpack",
+    "description": "Our butterfly-friendly Chair ensures ecstatic comfort for your pets",
+    "category": "Fashion",
+    "price": 2987,
+    "tags": [
+      "travel",
+      "computer",
+      "office"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Gaming Design Patterns",
+    "description": "Experience the orchid brilliance of our Ball, perfect for sleepy environments",
+    "category": "Books",
+    "price": 1556,
+    "tags": [
+      "fitness",
+      "premium",
+      "wireless"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Premium Football",
+    "description": "Ergonomic Soap made with Wooden for all-day majestic support",
+    "category": "Sports",
+    "price": 581,
+    "tags": [
+      "bluetooth",
+      "usb",
+      "premium"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Gaming Electric Kettle",
+    "description": "Experience the ivory brilliance of our Computer, perfect for orderly environments",
+    "category": "Home",
+    "price": 2946,
+    "tags": [
+      "gaming",
+      "audio",
+      "smart"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Professional Cricket Bat",
+    "description": "Our sea lion-friendly Mouse ensures gray comfort for your pets",
+    "category": "Sports",
+    "price": 3430,
+    "tags": [
+      "smart",
+      "storage",
+      "portable"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Smart Running Shoes",
+    "description": "The sleek and worthy Cheese comes with teal LED lighting for smart functionality",
+    "category": "Sports",
+    "price": 2611,
+    "tags": [
+      "rgb",
+      "wireless",
+      "storage"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Ultra JavaScript Guide",
+    "description": "New Car model with 76 GB RAM, 704 GB storage, and gripping features",
+    "category": "Books",
+    "price": 517,
+    "tags": [
+      "usb",
+      "premium",
+      "professional"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Smart Skipping Rope",
+    "description": "Bogisich, Hamill and Treutel's most advanced Pizza technology increases spherical capabilities",
+    "category": "Sports",
+    "price": 884,
+    "tags": [
+      "wireless",
+      "bluetooth",
+      "professional"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Modern Sunglasses",
+    "description": "The gold Towels combines Tunisia aesthetics with Samarium-based durability",
+    "category": "Fashion",
+    "price": 4661,
+    "tags": [
+      "office",
+      "audio",
+      "travel"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Portable Clean Code",
+    "description": "Introducing the Uganda-inspired Keyboard, blending tepid style with local craftsmanship",
+    "category": "Books",
+    "price": 2278,
+    "tags": [
+      "usb",
+      "office",
+      "travel"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Wireless Microphone",
+    "description": "Featuring Rhodium-enhanced technology, our Bike offers unparalleled knowledgeable performance",
+    "category": "Electronics",
+    "price": 4404,
+    "tags": [
+      "storage",
+      "travel",
+      "premium"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Gaming Gaming Keyboard",
+    "description": "New pink Gloves with ergonomic design for winged comfort",
+    "category": "Electronics",
+    "price": 2741,
+    "tags": [
+      "usb",
+      "premium",
+      "rgb"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Ultra Graphics Tablet",
+    "description": "Introducing the Maldives-inspired Salad, blending neat style with local craftsmanship",
+    "category": "Electronics",
+    "price": 1812,
+    "tags": [
+      "travel",
+      "bluetooth",
+      "professional"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Advanced Jeans",
+    "description": "Our juicy-inspired Bacon brings a taste of luxury to your energetic lifestyle",
+    "category": "Fashion",
+    "price": 4322,
+    "tags": [
+      "computer",
+      "audio",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Compact Python Basics",
+    "description": "New blue Table with ergonomic design for curly comfort",
+    "category": "Books",
+    "price": 768,
+    "tags": [
+      "fitness",
+      "bluetooth",
+      "computer"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Smart Python Basics",
+    "description": "The Expanded human-resource algorithm Cheese offers reliable performance and wavy design",
+    "category": "Books",
+    "price": 4394,
+    "tags": [
+      "rgb",
+      "bluetooth",
+      "office"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Modern Skipping Rope",
+    "description": "The Public-key interactive moderator Towels offers reliable performance and strong design",
+    "category": "Sports",
+    "price": 2097,
+    "tags": [
+      "computer",
+      "smart",
+      "travel"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Modern JavaScript Guide",
+    "description": "Introducing the Somalia-inspired Chair, blending ethical style with local craftsmanship",
+    "category": "Books",
+    "price": 4403,
+    "tags": [
+      "travel",
+      "professional",
+      "fitness"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Discover the expert new Keyboard with an exciting mix of Cotton ingredients",
+    "category": "Electronics",
+    "price": 4918,
+    "tags": [
+      "travel",
+      "premium",
+      "fitness"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Wireless Resistance Band",
+    "description": "The black Table combines Lesotho aesthetics with Promethium-based durability",
+    "category": "Sports",
+    "price": 4884,
+    "tags": [
+      "fitness",
+      "gaming",
+      "rgb"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Compact Wireless Earbuds",
+    "description": "Innovative Chicken featuring ripe technology and Rubber construction",
+    "category": "Electronics",
+    "price": 4228,
+    "tags": [
+      "portable",
+      "wireless",
+      "computer"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Compact Graphics Tablet",
+    "description": "New Shoes model with 53 GB RAM, 235 GB storage, and brown features",
+    "category": "Electronics",
+    "price": 2206,
+    "tags": [
+      "fitness",
+      "portable",
+      "gaming"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Portable Node.js Handbook",
+    "description": "The sleek and enlightened Bacon comes with green LED lighting for smart functionality",
+    "category": "Books",
+    "price": 4242,
+    "tags": [
+      "rgb",
+      "computer",
+      "gaming"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Wireless Kubernetes Essentials",
+    "description": "New ivory Shirt with ergonomic design for smart comfort",
+    "category": "Books",
+    "price": 2332,
+    "tags": [
+      "usb",
+      "travel",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Smart Office Desk",
+    "description": "Savor the tender essence in our Mouse, designed for upright culinary adventures",
+    "category": "Home",
+    "price": 378,
+    "tags": [
+      "rgb",
+      "office",
+      "smart"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Compact Gym Gloves",
+    "description": "Experience the lavender brilliance of our Sausages, perfect for rubbery environments",
+    "category": "Sports",
+    "price": 3835,
+    "tags": [
+      "professional",
+      "wireless",
+      "fitness"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Premium React Cookbook",
+    "description": "Discover the deer-like agility of our Tuna, perfect for fearless users",
+    "category": "Books",
+    "price": 3477,
+    "tags": [
+      "rgb",
+      "audio",
+      "premium"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Wireless Backpack",
+    "description": "Tillman - Pacocha's most advanced Soap technology increases irresponsible capabilities",
+    "category": "Fashion",
+    "price": 4968,
+    "tags": [
+      "fitness",
+      "office",
+      "portable"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Smart Football",
+    "description": "Ergonomic Towels made with Wooden for all-day circular support",
+    "category": "Sports",
+    "price": 4954,
+    "tags": [
+      "bluetooth",
+      "portable",
+      "travel"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Gaming Football",
+    "description": "Our savory-inspired Pizza brings a taste of luxury to your greedy lifestyle",
+    "category": "Sports",
+    "price": 2906,
+    "tags": [
+      "gaming",
+      "usb",
+      "audio"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Advanced Leather Jacket",
+    "description": "The grey Fish combines Tuvalu aesthetics with Gallium-based durability",
+    "category": "Fashion",
+    "price": 1156,
+    "tags": [
+      "bluetooth",
+      "storage",
+      "gaming"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Ultra Gaming Keyboard",
+    "description": "Discover the serpentine new Bike with an exciting mix of Marble ingredients",
+    "category": "Electronics",
+    "price": 4897,
+    "tags": [
+      "travel",
+      "usb",
+      "professional"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Modern Kubernetes Essentials",
+    "description": "New Fish model with 31 GB RAM, 400 GB storage, and exotic features",
+    "category": "Books",
+    "price": 3715,
+    "tags": [
+      "storage",
+      "professional",
+      "computer"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Modern Vacuum Cleaner",
+    "description": "Savor the spicy essence in our Chips, designed for defenseless culinary adventures",
+    "category": "Home",
+    "price": 4752,
+    "tags": [
+      "audio",
+      "storage",
+      "office"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Portable Backpack",
+    "description": "Ergonomic Cheese made with Ceramic for all-day shameless support",
+    "category": "Fashion",
+    "price": 2211,
+    "tags": [
+      "gaming",
+      "audio",
+      "travel"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Compact Storage Box",
+    "description": "Our parrot-friendly Mouse ensures square comfort for your pets",
+    "category": "Home",
+    "price": 4872,
+    "tags": [
+      "storage",
+      "travel",
+      "premium"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Ultra Formal Shirt",
+    "description": "Discover the dog-like agility of our Sausages, perfect for submissive users",
+    "category": "Fashion",
+    "price": 4597,
+    "tags": [
+      "fitness",
+      "gaming",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Smart Mixer Grinder",
+    "description": "The Robust methodical workforce Hat offers reliable performance and amazing design",
+    "category": "Home",
+    "price": 4134,
+    "tags": [
+      "portable",
+      "travel",
+      "smart"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Premium Smart Watch",
+    "description": "Featuring Zinc-enhanced technology, our Chair offers unparalleled concrete performance",
+    "category": "Electronics",
+    "price": 3225,
+    "tags": [
+      "bluetooth",
+      "audio",
+      "computer"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Ultra Webcam",
+    "description": "Discover the lavish new Car with an exciting mix of Aluminum ingredients",
+    "category": "Electronics",
+    "price": 4722,
+    "tags": [
+      "audio",
+      "professional",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Professional Node.js Handbook",
+    "description": "Professional-grade Salad perfect for prime training and recreational use",
+    "category": "Books",
+    "price": 2285,
+    "tags": [
+      "travel",
+      "audio",
+      "premium"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Professional Dumbbells",
+    "description": "Ergonomic Chair made with Cotton for all-day live support",
+    "category": "Sports",
+    "price": 3971,
+    "tags": [
+      "rgb",
+      "wireless",
+      "office"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Smart Skipping Rope",
+    "description": "Ergonomic Chicken designed with Metal for muddy performance",
+    "category": "Sports",
+    "price": 2610,
+    "tags": [
+      "office",
+      "computer",
+      "professional"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Smart Coffee Maker",
+    "description": "Innovative Sausages featuring willing technology and Marble construction",
+    "category": "Home",
+    "price": 2527,
+    "tags": [
+      "premium",
+      "office",
+      "computer"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Wireless Graphics Tablet",
+    "description": "Our tender-inspired Mouse brings a taste of luxury to your flashy lifestyle",
+    "category": "Electronics",
+    "price": 1086,
+    "tags": [
+      "wireless",
+      "rgb",
+      "office"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Smart Monitor",
+    "description": "Shields Inc's most advanced Towels technology increases metallic capabilities",
+    "category": "Electronics",
+    "price": 1036,
+    "tags": [
+      "audio",
+      "portable",
+      "premium"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Gaming Football",
+    "description": "Introducing the Croatia-inspired Chips, blending blue style with local craftsmanship",
+    "category": "Sports",
+    "price": 1086,
+    "tags": [
+      "smart",
+      "bluetooth",
+      "storage"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Advanced Gaming Keyboard",
+    "description": "Innovative Fish featuring mammoth technology and Concrete construction",
+    "category": "Electronics",
+    "price": 1703,
+    "tags": [
+      "storage",
+      "wireless",
+      "audio"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Portable Formal Shirt",
+    "description": "Savor the moist essence in our Bike, designed for stiff culinary adventures",
+    "category": "Fashion",
+    "price": 994,
+    "tags": [
+      "fitness",
+      "bluetooth",
+      "premium"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Professional Backpack",
+    "description": "Discover the monkey-like agility of our Chicken, perfect for mad users",
+    "category": "Fashion",
+    "price": 817,
+    "tags": [
+      "audio",
+      "portable",
+      "smart"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Portable Design Patterns",
+    "description": "Savor the zesty essence in our Chair, designed for narrow culinary adventures",
+    "category": "Books",
+    "price": 2770,
+    "tags": [
+      "premium",
+      "portable",
+      "rgb"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Professional Jeans",
+    "description": "Introducing the Israel-inspired Shoes, blending happy style with local craftsmanship",
+    "category": "Fashion",
+    "price": 3717,
+    "tags": [
+      "wireless",
+      "office",
+      "audio"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Modern Sunglasses",
+    "description": "Discover the polar bear-like agility of our Fish, perfect for pricey users",
+    "category": "Fashion",
+    "price": 1035,
+    "tags": [
+      "wireless",
+      "gaming",
+      "office"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Modern Formal Shirt",
+    "description": "Introducing the Honduras-inspired Chair, blending slushy style with local craftsmanship",
+    "category": "Fashion",
+    "price": 1035,
+    "tags": [
+      "portable",
+      "usb",
+      "audio"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Compact Ceiling Fan",
+    "description": "Professional-grade Cheese perfect for bustling training and recreational use",
+    "category": "Home",
+    "price": 2441,
+    "tags": [
+      "travel",
+      "fitness",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Advanced Football",
+    "description": "Modern Pizza designed with Aluminum for worthy performance",
+    "category": "Sports",
+    "price": 418,
+    "tags": [
+      "office",
+      "gaming",
+      "professional"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Portable Microphone",
+    "description": "Champlin, Yost and Raynor's most advanced Table technology increases outlying capabilities",
+    "category": "Electronics",
+    "price": 4009,
+    "tags": [
+      "rgb",
+      "computer",
+      "professional"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Modern System Design",
+    "description": "Introducing the Lesotho-inspired Salad, blending early style with local craftsmanship",
+    "category": "Books",
+    "price": 1370,
+    "tags": [
+      "audio",
+      "office",
+      "rgb"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Gaming Sneakers",
+    "description": "Ergonomic Bike made with Marble for all-day vivid support",
+    "category": "Fashion",
+    "price": 1799,
+    "tags": [
+      "wireless",
+      "premium",
+      "usb"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Compact Sneakers",
+    "description": "Innovative Pants featuring tender technology and Concrete construction",
+    "category": "Fashion",
+    "price": 1023,
+    "tags": [
+      "storage",
+      "audio",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Gaming Resistance Band",
+    "description": "Featuring Sodium-enhanced technology, our Mouse offers unparalleled unwieldy performance",
+    "category": "Sports",
+    "price": 1787,
+    "tags": [
+      "smart",
+      "storage",
+      "computer"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Smart Cricket Bat",
+    "description": "Featuring Copper-enhanced technology, our Shirt offers unparalleled bright performance",
+    "category": "Sports",
+    "price": 4840,
+    "tags": [
+      "gaming",
+      "rgb",
+      "usb"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Wireless Running Shoes",
+    "description": "Discover the bat-like agility of our Keyboard, perfect for confused users",
+    "category": "Sports",
+    "price": 4524,
+    "tags": [
+      "premium",
+      "fitness",
+      "audio"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Modern Resistance Band",
+    "description": "Stylish Table designed to make you stand out with concerned looks",
+    "category": "Sports",
+    "price": 472,
+    "tags": [
+      "smart",
+      "office",
+      "usb"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Advanced Python Basics",
+    "description": "Our giraffe-friendly Car ensures watery comfort for your pets",
+    "category": "Books",
+    "price": 2841,
+    "tags": [
+      "premium",
+      "storage",
+      "usb"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Advanced Backpack",
+    "description": "Ergonomic Towels made with Bronze for all-day frequent support",
+    "category": "Fashion",
+    "price": 1450,
+    "tags": [
+      "professional",
+      "travel",
+      "gaming"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Compact Water Bottle",
+    "description": "New maroon Bike with ergonomic design for boring comfort",
+    "category": "Sports",
+    "price": 4780,
+    "tags": [
+      "audio",
+      "rgb",
+      "professional"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "Ultra Leather Jacket",
+    "description": "The Rozella Keyboard is the latest in a series of celebrated products from Feil Inc",
+    "category": "Fashion",
+    "price": 4189,
+    "tags": [
+      "gaming",
+      "smart",
+      "portable"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Smart Office Desk",
+    "description": "The Enhanced secondary throughput Chicken offers reliable performance and nervous design",
+    "category": "Home",
+    "price": 582,
+    "tags": [
+      "professional",
+      "smart",
+      "storage"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Portable Smart Watch",
+    "description": "Discover the motionless new Soap with an exciting mix of Gold ingredients",
+    "category": "Electronics",
+    "price": 1300,
+    "tags": [
+      "office",
+      "computer",
+      "fitness"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Smart Hoodie",
+    "description": "Ergonomic Gloves made with Aluminum for all-day unwilling support",
+    "category": "Fashion",
+    "price": 2307,
+    "tags": [
+      "computer",
+      "office",
+      "smart"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Portable System Design",
+    "description": "Ergonomic Bacon made with Steel for all-day unknown support",
+    "category": "Books",
+    "price": 1321,
+    "tags": [
+      "fitness",
+      "bluetooth",
+      "portable"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Wireless Cap",
+    "description": "Wyman, Simonis and Heller's most advanced Mouse technology increases major capabilities",
+    "category": "Fashion",
+    "price": 2556,
+    "tags": [
+      "professional",
+      "audio",
+      "travel"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Premium Docker Deep Dive",
+    "description": "New Chips model with 42 GB RAM, 947 GB storage, and short-term features",
+    "category": "Books",
+    "price": 2126,
+    "tags": [
+      "portable",
+      "office",
+      "gaming"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Compact Clean Code",
+    "description": "Experience the violet brilliance of our Ball, perfect for tinted environments",
+    "category": "Books",
+    "price": 232,
+    "tags": [
+      "computer",
+      "fitness",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Compact React Cookbook",
+    "description": "Savor the golden essence in our Ball, designed for frizzy culinary adventures",
+    "category": "Books",
+    "price": 3441,
+    "tags": [
+      "computer",
+      "rgb",
+      "smart"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Wireless Jeans",
+    "description": "Stylish Salad designed to make you stand out with lighthearted looks",
+    "category": "Fashion",
+    "price": 2018,
+    "tags": [
+      "storage",
+      "travel",
+      "portable"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Gaming Water Bottle",
+    "description": "Introducing the Palestine-inspired Computer, blending lovable style with local craftsmanship",
+    "category": "Sports",
+    "price": 1361,
+    "tags": [
+      "fitness",
+      "bluetooth",
+      "gaming"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Portable Monitor",
+    "description": "Generic Sausages designed with Ceramic for lustrous performance",
+    "category": "Electronics",
+    "price": 1309,
+    "tags": [
+      "computer",
+      "premium",
+      "fitness"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Premium Wireless Mouse",
+    "description": "Featuring Polonium-enhanced technology, our Table offers unparalleled far-off performance",
+    "category": "Electronics",
+    "price": 4217,
+    "tags": [
+      "office",
+      "wireless",
+      "usb"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Smart Water Bottle",
+    "description": "Our bitter-inspired Keyboard brings a taste of luxury to your hospitable lifestyle",
+    "category": "Sports",
+    "price": 972,
+    "tags": [
+      "gaming",
+      "fitness",
+      "usb"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Compact Design Patterns",
+    "description": "The olive Sausages combines Cocos (Keeling) Islands aesthetics with Yttrium-based durability",
+    "category": "Books",
+    "price": 3229,
+    "tags": [
+      "audio",
+      "professional",
+      "portable"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Advanced Coffee Maker",
+    "description": "Our wolf-friendly Cheese ensures wise comfort for your pets",
+    "category": "Home",
+    "price": 2926,
+    "tags": [
+      "usb",
+      "audio",
+      "professional"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Smart Coffee Maker",
+    "description": "Innovative Computer featuring distant technology and Gold construction",
+    "category": "Home",
+    "price": 2200,
+    "tags": [
+      "office",
+      "portable",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Modern Gym Gloves",
+    "description": "Our tangy-inspired Hat brings a taste of luxury to your ambitious lifestyle",
+    "category": "Sports",
+    "price": 3605,
+    "tags": [
+      "travel",
+      "smart",
+      "office"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Professional Sneakers",
+    "description": "Professional-grade Gloves perfect for grounded training and recreational use",
+    "category": "Fashion",
+    "price": 2282,
+    "tags": [
+      "gaming",
+      "fitness",
+      "wireless"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Smart Vacuum Cleaner",
+    "description": "The yellow Tuna combines Luxembourg aesthetics with Thorium-based durability",
+    "category": "Home",
+    "price": 2991,
+    "tags": [
+      "usb",
+      "computer",
+      "premium"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Professional JavaScript Guide",
+    "description": "Ergonomic Salad made with Silk for all-day puzzled support",
+    "category": "Books",
+    "price": 443,
+    "tags": [
+      "bluetooth",
+      "professional",
+      "fitness"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Compact JavaScript Guide",
+    "description": "The sleek and known Pizza comes with orange LED lighting for smart functionality",
+    "category": "Books",
+    "price": 763,
+    "tags": [
+      "audio",
+      "gaming",
+      "fitness"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Modern Skipping Rope",
+    "description": "Innovative Chicken featuring different technology and Wooden construction",
+    "category": "Sports",
+    "price": 1986,
+    "tags": [
+      "rgb",
+      "wireless",
+      "office"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Advanced Running Shoes",
+    "description": "Discover the old-fashioned new Towels with an exciting mix of Ceramic ingredients",
+    "category": "Sports",
+    "price": 3412,
+    "tags": [
+      "bluetooth",
+      "professional",
+      "rgb"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Advanced Laptop Stand",
+    "description": "Ergonomic Bacon made with Concrete for all-day critical support",
+    "category": "Electronics",
+    "price": 2910,
+    "tags": [
+      "storage",
+      "rgb",
+      "premium"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Advanced Coffee Maker",
+    "description": "Schaefer - Breitenberg's most advanced Hat technology increases circular capabilities",
+    "category": "Home",
+    "price": 2740,
+    "tags": [
+      "fitness",
+      "travel",
+      "gaming"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Portable React Cookbook",
+    "description": "Fantastic Tuna designed with Concrete for uncomfortable performance",
+    "category": "Books",
+    "price": 3140,
+    "tags": [
+      "usb",
+      "audio",
+      "premium"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Compact Power Bank",
+    "description": "Introducing the Venezuela-inspired Mouse, blending private style with local craftsmanship",
+    "category": "Electronics",
+    "price": 1079,
+    "tags": [
+      "portable",
+      "premium",
+      "gaming"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Gaming Office Desk",
+    "description": "The Royce Chicken is the latest in a series of nimble products from Schulist, Wunsch and Kunde",
+    "category": "Home",
+    "price": 2219,
+    "tags": [
+      "rgb",
+      "fitness",
+      "travel"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Advanced Wireless Mouse",
+    "description": "Innovative Towels featuring serpentine technology and Concrete construction",
+    "category": "Electronics",
+    "price": 4349,
+    "tags": [
+      "gaming",
+      "rgb",
+      "storage"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Smart System Design",
+    "description": "Introducing the Gibraltar-inspired Hat, blending wordy style with local craftsmanship",
+    "category": "Books",
+    "price": 4862,
+    "tags": [
+      "office",
+      "professional",
+      "storage"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Ultra Laptop Stand",
+    "description": "The Katelynn Chips is the latest in a series of vivacious products from Emard - Tillman",
+    "category": "Electronics",
+    "price": 1840,
+    "tags": [
+      "rgb",
+      "portable",
+      "bluetooth"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Professional Router",
+    "description": "The sleek and grown Towels comes with magenta LED lighting for smart functionality",
+    "category": "Electronics",
+    "price": 2589,
+    "tags": [
+      "audio",
+      "usb",
+      "office"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Advanced Wallet",
+    "description": "Savor the golden essence in our Computer, designed for crafty culinary adventures",
+    "category": "Fashion",
+    "price": 3268,
+    "tags": [
+      "audio",
+      "travel",
+      "computer"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Advanced LED Lamp",
+    "description": "The mint green Tuna combines Madagascar aesthetics with Titanium-based durability",
+    "category": "Home",
+    "price": 2663,
+    "tags": [
+      "smart",
+      "travel",
+      "usb"
+    ]
+  }
+]
