@@ -274,7 +274,9 @@ cd search-engine
 ```bash
 cd backend
 npm install
+npm run seed
 ```
+npm run seed -> (to generate random 500 products data)
 
 ### Frontend
 
